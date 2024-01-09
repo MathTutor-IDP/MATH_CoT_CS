@@ -1,0 +1,2551 @@
+{
+  "correct_count": 6,
+  "wrong_count": 129,
+  "question_count": 135,
+  "115": {
+    "correct_answer": "8",
+    "answer_candidates": {
+      "2": 4,
+      "0": 3,
+      "4": 1,
+      "8": 1,
+      "4\\sqrt{\\tan \\alpha \\cdot \\tan \\beta}": 1,
+      "1.766": 1,
+      "\\text{undefined}": 2,
+      "12": 1,
+      "\\infty": 1,
+      "2\\sqrt{2\\tan \\alpha \\tan \\beta}": 1
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 4
+  },
+  "103": {
+    "correct_answer": "\\frac{\\sqrt{3}}{2}",
+    "answer_candidates": {
+      "\\frac{1}{2}": 1,
+      "\\frac{\\sqrt{3}}{2}": 8,
+      "\\frac{\\sqrt{3}}{4}": 1,
+      "0": 7,
+      "1": 2,
+      "\\frac{\\sqrt{3}}{8}": 1
+    },
+    "selected_answer": "\\frac{\\sqrt{3}}{2}",
+    "selected_answer_count": 8
+  },
+  "20": {
+    "correct_answer": "D",
+    "answer_candidates": {
+      "1 + \\frac{1}{2}\\sin (2B)(C + D)": 1,
+      "2 + C": 1,
+      "3C^2": 1,
+      "\\sin^2 (A + B) + C \\sin (A + B) \\cos (A + B) + D \\cos^2 (A + B)": 2,
+      "C - D + C \\tan (A + B) - D \\tan (A + B) - C \\cdot \\frac{1}{1 + \\tan (A + B)}": 1,
+      "\\frac{1}{2} + \\frac{1}{2}D + (C + \\frac{1}{2}D) \\operatorname{Re}(e^{2i(A + B)}) + C \\cdot \\frac{1}{2} \\operatorname{Im}(e^{2i(A + B)})": 1,
+      "D \\cos^2 (A + B) - C \\sin (A + B)": 1,
+      "\\frac{1}{2} \\sin^2 (4(A + B)) + \\frac{1}{2} C \\sin (4(A + B)) \\cos (4(A + B)) + \\frac{1}{2} D \\cos^2 (4(A + B))": 1,
+      "2 \\sin A \\cos A - 4 \\sin A \\cos A \\cos B \\sin B - 6 \\sin A \\cos A \\cos B - \\cos^2 B \\cdot \\sin^2 A + 1": 1,
+      "-C^2 + D": 1,
+      "1 + C \\sin A \\cos B": 1
+    },
+    "selected_answer": "\\sin^2 (A + B) + C \\sin (A + B) \\cos (A + B) + D \\cos^2 (A + B)",
+    "selected_answer_count": 2
+  },
+  "98": {
+    "correct_answer": "\\frac{3}{8}",
+    "answer_candidates": {
+      "\\frac{7}{2}": 1,
+      "-\\frac{3}{4}": 1,
+      "1": 4,
+      "0": 4,
+      "\\pm \\sqrt{\\frac{7}{5}}": 1,
+      "-1": 1,
+      "\\frac{7}{3}": 1,
+      "\\text{indeterminate}": 1,
+      "\\frac{3}{\\sqrt{5}}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 4
+  },
+  "77": {
+    "correct_answer": "\\begin{pmatrix} 1 & 2 \\\\ -3 & -5 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} 1 & 6 \\\\ 3 & 5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 & 1 \\\\ -2 & -3 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -1 & 3 \\\\ 4 & -2 \\end{pmatrix}": 1,
+      "\\text{The matrix }\\mathbf{M} \\text{ is not uniquely determined.}": 1,
+      "\\begin{pmatrix} -1 & 5 \\\\ 3 & -4 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -18 & -12 \\\\ 18 & 18 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 & 0 \\\\ 0 & -1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 & -2 \\\\ -3 & 4 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 2 & 3 \\\\ -4 & -5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 & -3 \\\\ -5 & 4 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 & 2 \\\\ -3 & -4 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 3 & 5 \\\\ -6 & -9 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -1 & 2 \\\\ 3 & -4 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -1 & 2 \\\\ -3 & 5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 2 & 3 \\\\ -5 & -8 \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 1 & 6 \\\\ 3 & 5 \\end{pmatrix}",
+    "selected_answer_count": 1
+  },
+  "61": {
+    "correct_answer": "\\frac{2 \\sqrt{149}}{3}",
+    "answer_candidates": {
+      "9 - 5\\sqrt{5} - 2\\sqrt{17}": 1,
+      "\\frac{5\\sqrt{5} + 2\\sqrt{17} - 9}{2}": 2,
+      "\\text{undefined}": 1,
+      "5\\sqrt{5} - 2\\sqrt{17}": 2,
+      "\\frac{1}{2}(5\\sqrt{5} + 2\\sqrt{17})": 1,
+      "9 - 5\\sqrt{5} + 2\\sqrt{17}": 1,
+      "\\sqrt{\\frac{166^2 \\cdot 3319^2 + 967^2}{332^2}}": 1,
+      "\\frac{5 \\sqrt{5}+2 \\sqrt{17}}{2}": 1,
+      "\\sqrt{5}": 1,
+      "\\frac{5 \\sqrt{5} + 2 \\sqrt{17}}{2} - 9": 1,
+      "0": 1,
+      "\\frac{9}{2}": 1,
+      "5 \\sqrt{5}": 1,
+      "\\frac{28}{5}": 1,
+      "\\sqrt{\\frac{463 - 6\\sqrt{531}}{3}}": 1
+    },
+    "selected_answer": "\\frac{5\\sqrt{5} + 2\\sqrt{17} - 9}{2}",
+    "selected_answer_count": 2
+  },
+  "36": {
+    "correct_answer": "8+4\\sqrt3",
+    "answer_candidates": {
+      "0": 10,
+      "\\sum_{k=1}^{r} |b_k|": 1,
+      "48": 1,
+      "2\\sqrt{24}": 1,
+      "\\text{Step 12 - To find } |b_k| \\text{ for each } b_k \\text{ and sum them up.}": 1,
+      "391.8333...": 1,
+      "8": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 10
+  },
+  "119": {
+    "correct_answer": "-\\frac{31}{8}",
+    "answer_candidates": {
+      "-2": 3,
+      "1": 1,
+      "\\frac{5}{-2a}": 1,
+      "\\frac{1}{2}": 1,
+      "0": 4,
+      "-3": 1,
+      "6": 1,
+      "\\text{Undefined}": 1,
+      "2": 1,
+      "4": 1,
+      "c": 1,
+      "-\\frac{2}{3}": 1,
+      "\\text{undefined}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "41": {
+    "correct_answer": "\\begin{pmatrix} -4/9 \\\\ 1/9 \\\\ 8/9 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\mathbf{0}": 2,
+      "\\begin{pmatrix} -16 \\\\ 4 \\\\ 32 \\end{pmatrix}": 9,
+      "\\begin{pmatrix} -\\frac{4}{9} \\\\ \\frac{1}{9} \\\\ \\frac{8}{9} \\end{pmatrix}": 1,
+      "\\mathbf{a}": 1,
+      "\\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \\end{pmatrix}": 2,
+      "\\left(-\\frac{4}{9}, \\frac{1}{9}, \\frac{8}{9}\\right)": 1,
+      "\\begin{pmatrix} \\sqrt{-\\frac{475}{1003}} \\\\ -\\frac{1}{8}\\sqrt{-\\frac{475}{1003}} \\\\ \\frac{1}{2}\\sqrt{-\\frac{475}{1003}} \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} -16 \\\\ 4 \\\\ 32 \\end{pmatrix}",
+    "selected_answer_count": 9
+  },
+  "16": {
+    "correct_answer": "27^\\circ, 63^\\circ, 99^\\circ, 135^\\circ, 171^\\circ",
+    "answer_candidates": {
+      "9^\\circ, 27^\\circ, 45^\\circ, 63^\\circ, 135^\\circ, 153^\\circ, 171^\\circ": 1,
+      "9^\\circ, 45^\\circ, 81^\\circ, 117^\\circ, 153^\\circ": 1,
+      "9^\\circ, 27^\\circ, 45^\\circ, 135^\\circ": 1,
+      "0^\\circ, 45^\\circ, 90^\\circ, 135^\\circ": 1,
+      "-45^\\circ, -9^\\circ, -225^\\circ, -189^\\circ, -333^\\circ, -297^\\circ, \\dots": 1,
+      "7.5^\\circ, 22.5^\\circ": 1,
+      "9^\\circ, 45^\\circ, 171^\\circ, 189^\\circ, 315^\\circ": 1,
+      "0^\\circ, 30^\\circ, 45^\\circ, 60^\\circ, 90^\\circ, 120^\\circ, 135^\\circ, 150^\\circ": 1,
+      "\\frac{\\pi}{20}, \\frac{\\pi}{4}, \\frac{3\\pi}{20}, \\frac{3\\pi}{4}, \\frac{5\\pi}{20}, \\frac{5\\pi}{4}, \\frac{7\\pi}{20}, \\frac{7\\pi}{4}, \\ldots": 1,
+      "\\frac{1}{216} - \\frac{\\sqrt{15}}{216}, \\frac{1}{216} + \\frac{\\sqrt{15}}{216}": 1,
+      "7.5^\\circ, 37.5^\\circ": 1,
+      "0^\\circ, 36^\\circ, 72^\\circ, 90^\\circ, 108^\\circ, 144^\\circ, 270^\\circ": 1,
+      "45^\\circ, 135^\\circ": 1,
+      "0, 15, 30, 45, 60, 75": 1,
+      "\\frac{\\pi}{20}, \\frac{\\pi}{5}, \\frac{3\\pi}{20}, \\frac{2\\pi}{5}, \\frac{\\pi}{2}": 1,
+      "\\frac{\\pi}{10}, \\frac{3\\pi}{10}, \\frac{7\\pi}{10}, \\frac{9\\pi}{10}, \\pi, \\frac{11\\pi}{10}, \\frac{13\\pi}{10}, \\frac{17\\pi}{10}, \\frac{19\\pi}{10}": 1,
+      "0^\\circ, 15^\\circ, 30^\\circ, 45^\\circ, 60^\\circ, 75^\\circ, 90^\\circ": 1
+    },
+    "selected_answer": "9^\\circ, 27^\\circ, 45^\\circ, 63^\\circ, 135^\\circ, 153^\\circ, 171^\\circ",
+    "selected_answer_count": 1
+  },
+  "57": {
+    "correct_answer": "\\frac{2}{3}",
+    "answer_candidates": {
+      "4 \\sin b": 1,
+      "0": 2,
+      "\\frac{5}{\\sqrt{26}}": 1,
+      "\\frac{\\sqrt{2}}{4}": 1,
+      "1": 5,
+      "5": 1,
+      "\\frac{2\\sqrt{2}}{5}": 1,
+      "\\infty": 1,
+      "-1": 2,
+      "\\frac{\\sqrt{26} - 25}{\\sqrt{26}}": 1,
+      "\\frac{\\sqrt{2}}{2}": 1,
+      "5 - \\sqrt{24}": 1,
+      "\\frac{5 - \\sqrt{6}}{10\\sqrt{6}}": 1,
+      "1 - \\cos a": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 5
+  },
+  "94": {
+    "correct_answer": "11x + 6y + 5z + 86 = 0",
+    "answer_candidates": {
+      "7x - 36y + 10z + 21 = 0": 1,
+      "-20": 1,
+      "\\frac{7}{\\sqrt{394}}x - \\frac{18}{\\sqrt{394}}y + \\frac{5}{\\sqrt{394}}z + \\frac{42}{\\sqrt{394}} = 0": 1,
+      "3.5x - 9y + 2.5z + 21 = 0": 1,
+      "x + y + z + 11 = 0": 1,
+      "\\frac{7}{\\sqrt{434}} x - \\frac{18}{\\sqrt{434}} y + \\frac{5}{\\sqrt{434}} z + \\frac{6\\sqrt{434}}{49} = 0": 1,
+      "7x - 18y + 7z + 26 = 0": 1,
+      "3x + 0.5z + 4 = 0": 1,
+      "7x - 18y + 5z + 20 = 0": 1,
+      "x + 5 = 0": 1,
+      "9x - 9y - z + 8 = 0": 1,
+      "7x - 18y + 5z - 60 = 0": 1,
+      "-6x - 6y - 30z + 135 = 0": 1,
+      "13x + 43y + 7z + 47 = 0": 1,
+      "7x - 18y + 5z + 47 = 0": 1,
+      "6x + 9y + 6z + 60 = 0": 1
+    },
+    "selected_answer": "7x - 36y + 10z + 21 = 0",
+    "selected_answer_count": 1
+  },
+  "123": {
+    "correct_answer": "\\frac{1}{2}",
+    "answer_candidates": {
+      "-\\sin \\frac{d}{2}": 1,
+      "\\csc \\frac{C - A}{2}": 1,
+      "\\,": 1,
+      "-\\frac{\\sqrt{3}}{2}": 1,
+      "-1": 1,
+      "\\frac{1}{2}": 1,
+      "\\sin \\frac{C}{2}, -\\sin \\frac{C}{2}": 1,
+      "0, \\frac{1}{2} \\sqrt{2 - \\sqrt{3}}, \\frac{1}{2} \\sqrt{2 + \\sqrt{3}}, 1": 1,
+      "\\sin \\frac{3d}{2}": 1,
+      "0, \\frac{1}{2 \\sqrt{3}}, -\\frac{1}{2 \\sqrt{3}}": 1,
+      "1": 1,
+      "\\sin \\frac{b - 60^\\circ}{2}, \\sin \\frac{b + 180^\\circ}{2}": 1,
+      "2R \\sin A": 1,
+      "-2": 1,
+      "0": 2,
+      "-1, 1": 2
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 2
+  },
+  "82": {
+    "correct_answer": "12",
+    "answer_candidates": {
+      "\\text{DNE}": 1,
+      "5": 3,
+      "0": 2,
+      "3": 2,
+      "2": 2,
+      "1": 2,
+      "6": 2,
+      "4": 1
+    },
+    "selected_answer": "5",
+    "selected_answer_count": 3
+  },
+  "6": {
+    "correct_answer": "\\frac{3}{2}",
+    "answer_candidates": {
+      "\\cot B + \\cot A": 1,
+      "5": 2,
+      "5 - \\cos(A + B) - \\cos B - 2\\cos^2 A": 1,
+      "\\frac{6\\tan A}{1 - 5\\tan A}": 1,
+      "\\frac{\\sin B}{\\sin A}": 1,
+      "2": 2,
+      "1": 1,
+      "\\frac{\\cos B + 4\\tan B}{4 - \\cos B \\tan B}": 1,
+      "4": 1,
+      "\\frac{2\\cos B(\\sin A\\cos A\\cos B + \\sin B(\\cos^2 A - 2\\sin A\\sin B))}{5}": 1,
+      "\\frac{1 + \\tan A}{1 - \\tan A}": 1,
+      "2\\sec A": 1
+    },
+    "selected_answer": "5",
+    "selected_answer_count": 2
+  },
+  "7": {
+    "correct_answer": "4",
+    "answer_candidates": {
+      "1": 7,
+      "\\sin x \\sin y": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{1}{2} \\sin (x + y) + \\cos x \\cos y": 1,
+      "\\frac{\\cos z \\sin (x + y)}{\\sin x}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 7
+  },
+  "83": {
+    "correct_answer": "\\frac{3}{5}, \\frac{117}{125}",
+    "answer_candidates": {
+      "\\frac{117}{125}": 5,
+      "\\frac{33}{25}": 1,
+      "-\\frac{63}{25}, \\frac{87}{25}": 1,
+      "\\frac{7}{25}, -\\frac{7}{25}, \\frac{24}{25}, -\\frac{24}{25}": 1,
+      "\\frac{46656}{15625}": 1,
+      "\\sin C \\text{ can be }\\frac{3}{5} \\text{ or } -\\frac{3}{5}": 1,
+      "\\frac{9}{25}, -\\frac{9}{25}": 1,
+      "\\frac{8}{25}": 1,
+      "\\frac{141}{125}": 1,
+      "\\frac{4}{5}, \\frac{7}{25}": 1,
+      "\\frac{7}{25}, \\frac{4}{5}": 1,
+      "-\\frac{117}{125}": 1,
+      "\\frac{96}{25}": 1,
+      "\\frac{\\sqrt{2}}{5}, -\\frac{\\sqrt{2}}{5}": 1
+    },
+    "selected_answer": "\\frac{117}{125}",
+    "selected_answer_count": 5
+  },
+  "134": {
+    "correct_answer": "\\begin{pmatrix} 1 \\\\ -2 \\\\ -1 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} -1 \\\\ 1 \\\\ -1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{2}{3} \\\\ 1 \\\\ 1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -1 \\\\ 0 \\\\ -\\frac{1}{3} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 2 \\\\ -1 \\\\ 1 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} -3 \\\\ 4 \\\\ 5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -1 \\\\ -\\frac{4}{3} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\cos \\frac{\\pi}{8} \\\\ \\sin \\frac{\\pi}{8} \\\\ 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -1 \\\\ -1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -1 \\\\ 1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -3 \\\\ -3\\sqrt{3} \\\\ 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -2 \\\\ 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -1 \\\\ -1 \\\\ 1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -2 \\\\ -2 \\\\ -1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -\\frac{2}{3} \\\\ -\\frac{2}{3} \\\\ -\\frac{1}{3} \\end{pmatrix}": 2,
+      "\\begin{pmatrix} 3 \\\\ 3 \\\\ 1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 2 \\\\ 2 \\\\ 1 \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 2 \\\\ -1 \\\\ 1 \\end{pmatrix}",
+    "selected_answer_count": 2
+  },
+  "95": {
+    "correct_answer": "159",
+    "answer_candidates": {
+      "0": 2,
+      "\\infty": 4,
+      "2": 3,
+      "5": 2,
+      "1": 4,
+      "9": 1,
+      "4": 1
+    },
+    "selected_answer": "\\infty",
+    "selected_answer_count": 4
+  },
+  "122": {
+    "correct_answer": "-\\frac{1}{14}",
+    "answer_candidates": {
+      "783": 2,
+      "\\frac{-2}{1457}": 1,
+      "\\frac{1}{783}": 1,
+      "\\frac{2}{783}\\tan\\left(\\frac{C}{2}\\right)": 1,
+      "\\frac{26}{29 \\cdot 27 + 1}": 1,
+      "0": 1,
+      "\\tan \\frac{A - B}{2} \\tan \\frac{C}{2} = \\tan \\frac{A}{2} \\tan \\frac{B}{2} \\tan \\frac{C}{2}": 1,
+      "-1": 1,
+      "\\frac{3 - 29 \\tan \\frac{B}{2}}{29 \\cdot 782}": 1,
+      "\\tan \\frac{C}{2}": 1,
+      "\\frac{29^2}{27 \\cdot (1 + (29 \\tan \\frac{A}{2})^2)}": 1,
+      "29": 1,
+      "-\\frac{1}{15}": 1
+    },
+    "selected_answer": "783",
+    "selected_answer_count": 2
+  },
+  "56": {
+    "correct_answer": "\\frac{\\sqrt{6}}{3}",
+    "answer_candidates": {
+      "1": 1,
+      "\\sin \\frac{1}{3}": 1,
+      "\\frac{4\\sqrt{2}}{9}": 2,
+      "\\frac{2}{3}": 2,
+      "\\frac{1}{2}": 1,
+      "\\frac{\\sqrt{8}}{2}": 1,
+      "\\frac{1}{3}": 2,
+      "\\frac{\\sqrt{5}}{2}": 2,
+      "\\frac{1}{6}": 1,
+      "\\frac{\\sqrt{2} + 1}{4}": 1,
+      "\\frac{\\sqrt{2}}{2}": 1
+    },
+    "selected_answer": "\\frac{4\\sqrt{2}}{9}",
+    "selected_answer_count": 2
+  },
+  "17": {
+    "correct_answer": "3R^2",
+    "answer_candidates": {
+      "\\frac{10}{81}(a^2 + b^2 + c^2)": 1,
+      "\\frac{9}{4}(a^2 + b^2 + c^2) - 3R^2": 1,
+      "\\frac{5}{9} \\left( a^2 + b^2 + c^2 \\right)": 1,
+      "\\frac{27}{2}R^2": 1,
+      "a^2 + b^2 + c^2 + 12R^2": 1,
+      "\\frac{1}{9}(a^2 + b^2 + c^2) + \\frac{3}{2}c^2": 1,
+      "\\frac{1}{9}(a^2 + b^2 + c^2)": 1,
+      "\\frac{3}{4} (a^2 + b^2) - \\frac{3}{2} ab\\cos C": 1,
+      "\\frac{a^2 + b^2 + c^2}{9}": 1,
+      "\\frac{16}{9}(a^2 + b^2)": 1,
+      "\\frac{2abc}{R}": 1,
+      "\\frac{48s^2(s-a)(s-b)(s-c)}{a^2b^2c^2}": 1,
+      "\\frac{9}{4}R^2": 1,
+      "8R^2 - (AB^2 + BC^2 + AC^2)": 1
+    },
+    "selected_answer": "\\frac{10}{81}(a^2 + b^2 + c^2)",
+    "selected_answer_count": 1
+  },
+  "118": {
+    "correct_answer": "6",
+    "answer_candidates": {
+      "0": 2,
+      "3": 1,
+      "180": 1,
+      "360": 5,
+      "31": 1,
+      "57": 1,
+      "-360": 1,
+      "6": 3,
+      "179": 1,
+      "90": 1,
+      "719": 1,
+      "60": 1
+    },
+    "selected_answer": "360",
+    "selected_answer_count": 5
+  },
+  "40": {
+    "correct_answer": "\\left( \\frac{7}{45}, \\frac{4}{45} \\right)",
+    "answer_candidates": {
+      "\\left( \\frac{13}{15}, \\frac{2}{15} \\right)": 1,
+      "\\left(\\frac{2\\sqrt{3}}{3}, \\frac{2\\sqrt{3}}{3}\\right)": 1,
+      "\\left(\\frac{7}{45}, \\frac{4}{45}\\right)": 1,
+      "\\left( \\frac{1}{5}, \\frac{1}{6} \\right)": 1,
+      "\\left(\\frac{22}{3}, \\frac{1}{\\sqrt{3}}\\right)": 1,
+      "(0,0)": 3,
+      "\\left( \\frac{7}{45}, \\frac{4}{45} \\right)": 1,
+      "(1,-1)": 1,
+      "\\left( \\frac{13}{15}, \\frac{2}{25} \\right)": 1,
+      "\\left(\\frac{1}{5}, \\frac{1}{6}\\right)": 3,
+      "\\left(\\frac{\\sqrt{61}}{180}, \\frac{\\sqrt{61}}{180}\\right)": 1,
+      "\\left(\\frac{24}{35}, \\frac{1}{5}\\right)": 1,
+      "\\left( \\frac{1}{5}, \\frac{1}{3} \\right)": 1,
+      "\\left(\\frac{2\\sqrt{10}}{25}, \\frac{\\sqrt{15}}{18}\\right)": 1,
+      "(p,0)": 1
+    },
+    "selected_answer": "(0,0)",
+    "selected_answer_count": 3
+  },
+  "37": {
+    "correct_answer": "(-7,10)",
+    "answer_candidates": {
+      "(-2,\\frac{3}{2})": 1,
+      "\\left(-\\frac{1}{2}, \\frac{3}{2}\\right)": 1,
+      "(-4, 6)": 1,
+      "\\text{No solution}": 2,
+      "(0, -23)": 1,
+      "\\left(-\\frac{8}{3},2\\right)": 1,
+      "(-10,0)": 1,
+      "\\left(-\\frac{2}{3}, 1\\right)": 1,
+      "\\left(-\\frac{1}{3}, 4\\right)": 1,
+      "(4,-2)": 1,
+      "(-2,1)": 1,
+      "(2,-4)": 1,
+      "\\text{empty set}": 1,
+      "(1,-\\frac{1}{18})": 1,
+      "\\left(-\\frac{4}{m}, -\\frac{3}{m}\\right)": 1,
+      "\\left(\\frac{3}{2q},q\\right)": 1,
+      "(2, -3)": 1,
+      "\\text{There are no such values }": 1
+    },
+    "selected_answer": "\\text{No solution}",
+    "selected_answer_count": 2
+  },
+  "60": {
+    "correct_answer": "\\left( -\\frac{5}{3}, \\frac{2}{3}, \\frac{19}{3} \\right)",
+    "answer_candidates": {
+      "d+f = \\frac{43}{6} + \\frac{17}{3} = \\frac{129}{6} + \\frac{34}{6} = \\frac{163}{6}": 1,
+      "\\left(1, -\\frac{20}{17}, \\frac{61}{17}\\right)": 1,
+      "(1, -2, 1)": 1,
+      "\\left(-\\frac{5}{6}, \\frac{5}{6}, \\frac{5}{3}\\right)": 1,
+      "\\left(-\\frac{7}{6}, -\\frac{5}{6}, -\\frac{43}{6}\\right)": 1,
+      "(-16, 15, -8)": 1
+    },
+    "selected_answer": "d+f = \\frac{43}{6} + \\frac{17}{3} = \\frac{129}{6} + \\frac{34}{6} = \\frac{163}{6}",
+    "selected_answer_count": 1
+  },
+  "99": {
+    "correct_answer": "2 \\sqrt{2}",
+    "answer_candidates": {
+      "\\frac{2 \\sqrt[5]{\\sin 5 \\theta} \\cos \\theta}{1 - 2\\left(\\sqrt[5]{\\sin 5 \\theta}\\right)^2}": 1,
+      "0": 4,
+      "-\\sqrt{3}": 1,
+      "\\frac{1}{2}": 1,
+      "\\frac{\\sqrt{3}}{2}": 1,
+      "\\sqrt{5} - 2": 1,
+      "2 \\sqrt{6}": 1,
+      "\\sqrt{3}": 2,
+      "-\\frac{\\sqrt{33}}{8}": 1,
+      "2\\sqrt{2}": 1,
+      "-7.0623": 1,
+      "\\text{undefined}": 2
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "76": {
+    "correct_answer": "\\left( -\\frac{8}{3}, \\frac{4}{3}, -\\frac{1}{3} \\right)",
+    "answer_candidates": {
+      "(2 \\sin (2 \\phi) \\cos \\theta, -\\sin (2 \\phi) \\sin \\theta, -2 \\cos (2 \\phi))": 1,
+      "\\left(-4 \\sin \\phi \\cos \\phi \\cos \\theta, -\\frac{2}{\\cos \\phi} \\sin \\phi \\sin \\theta, -\\frac{2}{\\cos \\phi} \\cos \\phi\\right)": 1,
+      "(-4 \\sin 1 \\cos 2, -4 \\sin 1 \\sin 2, 2(\\cos^2 1 - \\sin^2 1))": 1,
+      "(-0.9836, 1.5391, 1.1670)": 1,
+      "(\\rho \\sin (2 \\phi) \\cos \\theta, \\rho \\sin (2 \\phi) \\sin \\theta, \\rho \\cos (2 \\phi))": 1
+    },
+    "selected_answer": "(2 \\sin (2 \\phi) \\cos \\theta, -\\sin (2 \\phi) \\sin \\theta, -2 \\cos (2 \\phi))",
+    "selected_answer_count": 1
+  },
+  "21": {
+    "correct_answer": "\\frac{21}{64}",
+    "answer_candidates": {
+      "\\frac{1}{32}": 3,
+      "\\frac{1}{64}": 7,
+      "\\frac{1}{128}": 2,
+      "\\frac{1}{2\\pi}": 1,
+      "\\frac{1}{2}": 2,
+      "\\frac{1}{4\\pi}": 1,
+      "\\frac{1}{4}": 1,
+      "0.03125": 1,
+      "\\frac{1}{64\\pi}": 1,
+      "\\frac{7}{8}": 1
+    },
+    "selected_answer": "\\frac{1}{64}",
+    "selected_answer_count": 7
+  },
+  "102": {
+    "correct_answer": "\\left( \\frac{11}{15}, \\frac{11}{60}, \\frac{1}{12} \\right)",
+    "answer_candidates": {
+      "(0,1,0)": 2,
+      "\\left(\\frac{5}{4}, \\frac{1}{2i \\sqrt{6}}, 1\\right)": 1,
+      "\\left(\\frac{1}{8},\\frac{7}{8},0\\right)": 1,
+      "\\left( 8, 3, -\\frac{73}{7} \\right)": 1,
+      "\\left(\\frac{1}{8}, \\frac{1}{7}, \\frac{1}{5}\\right)": 1,
+      "\\text{Not possible}": 1,
+      "\\left( 1, 0, 0 \\right)": 1,
+      "\\left(\\frac{153}{64} - t, t, -\\frac{89}{64}\\right)": 1,
+      "\\left(\\frac{35}{112}, -\\frac{35}{16}, \\frac{4}{7}\\right)": 1,
+      "(1, 0, 0)": 1,
+      "\\left( \\frac{1}{3}, \\frac{1}{3}, \\frac{1}{3} \\right)": 1,
+      "(-1,1,1)": 1,
+      "\\left(\\frac{5}{24},\\frac{95}{24},\\frac{3}{4}\\right)": 1,
+      "(8,7,-15)": 1,
+      "(1,0,0)": 1,
+      "\\left(\\frac{1}{3}, \\frac{1}{3}, \\frac{1}{3}\\right)": 1,
+      "\\left(\\frac{1}{2}, \\frac{1}{2}, \\frac{1}{2}\\right)": 1,
+      "(0,0,0)": 1,
+      "1": 1
+    },
+    "selected_answer": "(0,1,0)",
+    "selected_answer_count": 2
+  },
+  "114": {
+    "correct_answer": "-\\frac{17}{19}",
+    "answer_candidates": {
+      "\\frac{4\\sqrt{2}}{9}": 1,
+      "\\frac{32}{49}": 1,
+      "\\frac{\\sqrt{241}}{21}": 1,
+      "-\\frac{7}{8}": 1,
+      "-\\frac{\\sqrt{2}}{3}": 1,
+      "\\frac{\\sqrt{47}}{7}": 1,
+      "-1 < \\sin\\theta < \\frac{15}{7}": 1,
+      "-\\frac{\\sqrt{17}}{7}": 1,
+      "-\\frac{\\sqrt2}{2}": 1,
+      "\\sqrt{\\frac{2\\sqrt{2}-7-\\frac{1}{2}}{(2\\sqrt{2}-7)^2}}": 1,
+      "\\frac{2000-92\\sqrt{2381}}{3168}": 1,
+      "-\\frac{\\sqrt{41}}{7}": 1,
+      "-\\frac{2\\sqrt{2}}{7}": 1,
+      "\\frac{1}{4}": 1
+    },
+    "selected_answer": "\\frac{4\\sqrt{2}}{9}",
+    "selected_answer_count": 1
+  },
+  "47": {
+    "correct_answer": "20",
+    "answer_candidates": {
+      "7": 1,
+      "8": 4,
+      "1": 2,
+      "24": 1,
+      "15": 1,
+      "6": 2,
+      "14": 1,
+      "0": 1,
+      "3": 1,
+      "4": 1,
+      "5": 4,
+      "36": 1
+    },
+    "selected_answer": "8",
+    "selected_answer_count": 4
+  },
+  "10": {
+    "correct_answer": "11",
+    "answer_candidates": {
+      "0": 5,
+      "11 - d": 1,
+      "8": 1,
+      "33": 1,
+      "3": 3,
+      "c-d": 1,
+      "\\sqrt{16 + c^2}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 5
+  },
+  "109": {
+    "correct_answer": "\\frac{9}{2}",
+    "answer_candidates": {
+      "\\sqrt{39}": 1,
+      "8 \\sqrt{1 - \\left(\\frac{5}{8}\\right)^2}": 1,
+      "\\frac{5\\sqrt{39}}{4}": 1,
+      "8": 2,
+      "5": 2,
+      "\\frac{15}{4}": 2,
+      "0": 1,
+      "\\frac{25}{2}": 2,
+      "10": 1,
+      "\\frac{25}{4}": 1,
+      "15": 1,
+      "\\frac{5}{2} \\sqrt{39}": 1,
+      "\\frac{5}{2}": 1,
+      "\\frac{3 \\sqrt{13}}{2}": 1,
+      "\\frac{125}{64}": 1,
+      "\\frac{15}{8}": 1
+    },
+    "selected_answer": "8",
+    "selected_answer_count": 2
+  },
+  "51": {
+    "correct_answer": "\\begin{pmatrix} 5/3 \\\\ 5/3 \\\\ 4/3 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} -7 \\\\ 1 \\\\ -4 \\end{pmatrix}": 2,
+      "\\frac{3}{2}": 1,
+      "\\begin{pmatrix} \\frac{7}{2} \\\\ -\\frac{1}{2} \\\\ 2 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 7 \\\\ -1 \\\\ 4 \\end{pmatrix}": 2,
+      "\\frac{3 \\sqrt{14}}{4}": 1,
+      "\\frac{3}{7}": 1,
+      "\\begin{pmatrix} 3 \\\\ 1 \\\\ 2 \\end{pmatrix}": 1,
+      "\\pm \\sqrt{\\frac{1 + \\sqrt{66}}{15}} \\begin{pmatrix} 7 \\\\ -1 \\\\ 4 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 10 \\\\ -\\frac{10}{7} \\\\ \\frac{40}{7} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{19}{2} \\\\ -\\frac{19}{14} \\\\ \\frac{19}{7} \\end{pmatrix}": 1,
+      "\\frac{69}{17}": 1,
+      "3": 1,
+      "6": 1
+    },
+    "selected_answer": "\\begin{pmatrix} -7 \\\\ 1 \\\\ -4 \\end{pmatrix}",
+    "selected_answer_count": 2
+  },
+  "92": {
+    "correct_answer": "\\left( 3, \\frac{11 \\pi}{8}, \\frac{4 \\pi}{5} \\right)",
+    "answer_candidates": {
+      "\\left( 3, -\\frac{3 \\pi}{8}, -\\frac{\\pi}{5} \\right)": 1,
+      "\\left( 3, \\frac{11 \\pi}{8}, \\frac{4 \\pi}{5} \\right)": 5,
+      "(3, \\frac{11 \\pi}{8}, \\frac{6 \\pi}{5})": 1,
+      "\\left( 3, \\frac{11 \\pi}{8}, \\frac{6 \\pi}{5} \\right)": 3,
+      "\\left( 3, \\frac{3\\pi}{8} + \\pi, \\frac{\\pi}{5} + \\pi \\right)": 1,
+      "(3, \\frac{11\\pi}{8}, \\frac{4\\pi}{5})": 1,
+      "\\left( 3, \\frac{3 \\pi}{8} + \\pi, \\pi - \\frac{\\pi}{5} \\right)": 1
+    },
+    "selected_answer": "\\left( 3, \\frac{11 \\pi}{8}, \\frac{4 \\pi}{5} \\right)",
+    "selected_answer_count": 5
+  },
+  "125": {
+    "correct_answer": "(3,-3,1)",
+    "answer_candidates": {
+      "\\left(\\frac{1}{\\sqrt{3}}, 1, \\frac{c}{\\sqrt{3}} - \\frac{1}{3}\\right)": 1,
+      "(-3, 1, 0)": 1,
+      "(3, -1, 0)": 1,
+      "(-3, \\frac{y}{\\sqrt{1 + y^2}}, 3 - \\frac{y\\sqrt{10}}{\\sqrt{1 + y^2}})": 1,
+      "(0, 6\\sqrt{10}, 6\\sqrt{10})": 1,
+      "(0, 0, -\\frac{9}{10})": 1,
+      "(0,\\frac{1}{3},0)": 1,
+      "(0,10,9 - 6\\sqrt{10})": 1,
+      "(0, 0, 0)": 1,
+      "\\left(-2 \\left(\\frac{3}{\\sqrt{10}} - \\frac{\\pi}{2}\\right), 0, 1 - \\left(\\frac{3}{\\sqrt{10}} - \\frac{\\pi}{2}\\right)^2\\right)": 1,
+      "(1, \\sqrt{1 + y^2}, -3\\sqrt{1 + x^2} + \\sqrt{1 + x^2 + y^2 + x^2y^2})": 1,
+      "(0,0,0)": 1,
+      "(a, b, c)": 2,
+      "\\left(-\\frac{b \\sqrt{10}}{3}, b, -\\frac{1}{3\\sqrt{91}}\\right)": 1,
+      "(-1,-1,0)": 1,
+      "(-6 \\sqrt{10}, 0, 10 - 10y^2)": 1,
+      "(1,0,0)": 1,
+      "(-6,0,x^2 - 9)": 1
+    },
+    "selected_answer": "(a, b, c)",
+    "selected_answer_count": 2
+  },
+  "84": {
+    "correct_answer": "\\frac{1}{9}",
+    "answer_candidates": {
+      "1": 3,
+      "5 - \\frac{b^2}{a^2}": 1,
+      "0": 2,
+      "\\frac{r}{h}": 1,
+      "\\frac{1}{2}": 3,
+      "-\\frac{1}{2}": 1,
+      "\\frac{h}{r}": 1,
+      "\\cos\\left(\\frac{\\theta}{2}\\right)": 1,
+      "\\cos \\theta": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 3
+  },
+  "0": {
+    "correct_answer": "\\frac{1}{4}",
+    "answer_candidates": {
+      "-\\frac{1}{4}": 13,
+      "\\frac{-1}{2}": 1,
+      "\\frac{-1}{4}": 2,
+      "\\frac{1}{6}": 1,
+      "\\frac{\\sqrt{3}}{8}": 1,
+      "1": 1
+    },
+    "selected_answer": "-\\frac{1}{4}",
+    "selected_answer_count": 13
+  },
+  "133": {
+    "correct_answer": "159",
+    "answer_candidates": {
+      "10": 3,
+      "5^{\\circ}": 1,
+      "5": 2,
+      "6": 1,
+      "17": 1,
+      "321": 1,
+      "0": 1,
+      "3": 2,
+      "33": 1,
+      "18": 1,
+      "90": 1,
+      "26": 1,
+      "1": 1
+    },
+    "selected_answer": "10",
+    "selected_answer_count": 3
+  },
+  "113": {
+    "correct_answer": "\\frac{6}{23}",
+    "answer_candidates": {
+      "5": 2,
+      "11": 1,
+      "2": 2,
+      "4": 2,
+      "\\text{No solution}": 1,
+      "\\sqrt{14}": 1,
+      "6": 1,
+      "7": 1,
+      "1": 3,
+      "\\frac{3}{2}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 3
+  },
+  "105": {
+    "correct_answer": "-2 + \\sqrt{3}",
+    "answer_candidates": {
+      "-1": 2,
+      "-\\frac{1}{3}": 1,
+      "1": 3,
+      "0": 1,
+      "\\frac{3}{8}": 3,
+      "-\\frac{1}{4}": 1,
+      "\\frac{1}{2}": 2,
+      "\\frac{1}{8}": 1,
+      "\\frac{1}{4}": 2
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 3
+  },
+  "26": {
+    "correct_answer": "\\frac{\\sqrt{35}}{3}",
+    "answer_candidates": {
+      "\\frac{5}{8}": 1,
+      "\\frac{2\\sqrt{3} + \\sqrt{-17 + 6\\sqrt{3}}}{3}": 1,
+      "\\frac{4\\sqrt{3}}{3}": 1,
+      "0": 1,
+      "\\frac{35}{9 \\sin \\theta}": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{-5\\sqrt{3} + \\sqrt{213} + \\sqrt{324 - 96\\sqrt{71}}}{6}": 1,
+      "10\\sqrt{3} + 3\\sqrt{595}": 1,
+      "\\frac{\\sqrt{3} + 2 \\sqrt{2}}{3}": 1,
+      "\\sqrt{3}": 1,
+      "-\\frac{\\sqrt{3}}{2} - \\frac{1}{2}": 1,
+      "\\frac{\\sqrt{3} + 2\\sqrt{2}}{3}": 1,
+      "\\frac{26}{3} + \\cos \\theta": 1,
+      "\\frac{\\sqrt{69} + 2}{3\\sqrt{3}}": 1,
+      "\\frac{12 + 4\\sqrt{6} - \\sqrt{3}}{9}": 1
+    },
+    "selected_answer": "\\frac{5}{8}",
+    "selected_answer_count": 1
+  },
+  "129": {
+    "correct_answer": "2 + \\sqrt{3}, -2 + \\sqrt{3}",
+    "answer_candidates": {
+      "0": 3,
+      "-\\sqrt{3}, \\frac{\\sqrt{3}}{2}": 1,
+      "\\text{No real solutions}": 1,
+      "1: Multiply both sides of the equation by $(x - \\tan 20^\\circ)(x + \\tan 40^\\circ)(x - \\tan 80^\\circ)$ to get rid of the denominators. This gives us $(x + \\tan 40^\\circ)(x - \\tan 80^\\circ) + (x - \\tan 20^\\circ)(x - \\tan 80^\\circ) + (x - \\tan 20^\\circ)(x + \\tan 40^\\circ) = 0$.\n\nStep 2: Expand the equation to get $x^2 - x\\tan 80^\\circ + x\\tan 40^\\circ - \\tan 40^\\circ\\tan 80^\\circ + x^2 - x\\tan 20^\\circ - \\tan 20^\\circ\\tan 80^\\circ + \\tan 20^\\circ\\tan 40^\\circ + x^2 - x\\tan 20^\\circ + x\\tan 40^\\circ + \\tan 20^\\circ\\tan 40^\\circ = 0$.\n\nStep 3: Combine like terms to get $3x^2 + x(\\tan 40^\\circ - \\tan 80^\\circ - \\tan 20^\\circ) + (\\tan 40^\\circ\\tan 80^\\circ - \\tan 20^\\circ\\tan 80^\\circ + \\tan 20^\\circ\\tan 40^\\circ) = 0$.\n\nStep 4: Notice that $\\tan A\\tan B + \\tan B\\tan C + \\tan C\\tan A = 1$ for $A + B + C = 180^\\circ$. In this case, $A = 40^\\circ$, $B = 80^\\circ$, and $C = 20^\\circ$, so $\\tan 40^\\circ\\tan 80^\\circ + \\tan 80^\\circ\\tan 20^\\circ + \\tan 20^\\circ\\tan 40^\\circ = 1$.\n\nStep 5: Rewrite the equation as $3x^2 + x(\\tan 40^\\circ - \\tan 80^\\circ - \\tan 20^\\circ) + 1 = 0$.\n\nStep 6: Use the fact that $\\tan(180^\\circ - A) = -\\tan A$ to rewrite the equation as $3x^2 + x(\\tan 40^\\circ + \\tan 80^\\circ + \\tan 20^\\circ) + 1 = 0$.\n\nStep 7: Use the angle addition formula for tangent to rewrite the equation as $3x^2 + x(\\tan (40^\\circ + 80^\\circ) + \\tan 20^\\circ) + 1 = 0$.\n\nStep 8: Simplify the equation to get $3x^2 + x(\\tan 120^\\circ + \\tan 20^\\circ) + 1 = 0$.\n\nStep 9: Use the fact that $\\tan(180^\\circ + A) = \\tan A$ to rewrite the equation as $3x^2 + x(\\tan 120^\\circ - \\tan 20^\\circ) + 1 = 0$.\n\nStep 10: Use the angle subtraction formula for tangent to rewrite the equation as $3x^2 + x(\\tan (120^\\circ - 20^\\circ)) + 1 = 0$.\n\nStep 11: Simplify the equation to get $3x^2 + x(\\tan 100^\\circ) + 1 = 0$.\n\nStep 12: Use the fact that $\\tan(180^\\circ - A) = -\\tan A$ to rewrite the equation as $3x^2 + x(-\\tan 80^\\circ) + 1 = 0$.\n\nStep 13: Use the angle subtraction formula for tangent to rewrite the equation as $3x^2 - x(\\tan (80^\\circ - 0^\\circ)) + 1 = 0$.\n\nStep 14: Simplify the equation to get $3x^2 - x(\\tan 80^\\circ) + 1 = 0$.\n\nStep 15: Use the fact that $\\tan(180^\\circ - A) = -\\tan A$ to rewrite the equation as $3x^2 + x(-\\tan 100^\\circ) + 1 = 0$.\n\nStep 16: Use the angle subtraction formula for tangent to rewrite the equation as $3x^2 - x(\\tan (100^\\circ - 0^\\circ)) + 1 = 0$.\n\nStep 17: Simplify the equation to get $3x^2 - x(\\tan 100^\\circ) + 1 = 0$.\n\nStep 18: Use the quadratic formula to solve the quadratic equation $3x^2 + x(\\tan 120^\\circ + \\tan 20^\\circ) + 1 = 0$.\n\nStep 19: The solutions are $x = \\frac{-\\tan 120^\\circ - \\tan 20^\\circ \\pm \\sqrt{(\\tan 120^\\circ + \\tan 20^\\circ)^2 - 4(3)(1)}}{2(3)}$.\n\nStep 20: Simplify the solutions to get $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\tan^2 20^\\circ - 12}}{6}$.\n\nStep 21: Use the fact that $\\tan(180^\\circ - A) = -\\tan A$ to simplify the solutions to $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\tan^2 20^\\circ - 12}}{6}$.\n\nStep 22: Use the tangent addition formula to rewrite $\\sqrt{3\\tan^2 20^\\circ - 12}$ as $\\sqrt{3(\\tan^2 20^\\circ - 4)}$.\n\nStep 23: Simplify the solutions to get $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3(\\tan^2 20^\\circ - 4)}}{6}$.\n\nStep 24: Use the Pythagorean identity for tangent to rewrite $\\tan^2 20^\\circ - 4$ as $\\sec^2 20^\\circ - 1$.\n\nStep 25: Use the fact that $\\sec A = \\frac{1}{\\cos A}$ to rewrite $\\sec^2 20^\\circ - 1$ as $\\frac{1}{\\cos^2 20^\\circ} - 1$.\n\nStep 26: Use the fact that $\\cos(90^\\circ - A) = \\sin A$ to rewrite $\\cos 20^\\circ$ as $\\sin 70^\\circ$.\n\nStep 27: Simplify the solutions to get $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(\\frac{1}{\\sin^2 70^\\circ} - 1\\right)}}{6}$.\n\nStep 28: Use the fact that $\\sin(180^\\circ - A) = \\sin A$ to simplify the solutions to $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(\\frac{1}{\\sin^2 70^\\circ} - 1\\right)}}{6}$.\n\nStep 29: Use the fact that $\\sin^2 A + \\cos^2 A = 1$ to rewrite $\\frac{1}{\\sin^2 70^\\circ} - 1$ as $\\frac{\\cos^2 70^\\circ}{\\sin^2 70^\\circ}$.\n\nStep 30: Use the fact that $\\sin(180^\\circ - A) = \\sin A$ to simplify the solutions to $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(\\frac{\\cos^2 70^\\circ}{\\sin^2 70^\\circ}\\right)}}{6}$.\n\nStep 31: Use the tangent identity $\\tan A = \\frac{\\sin A}{\\cos A}$ to rewrite the solutions as $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(\\frac{\\cos^2 70^\\circ}{\\sin^2 70^\\circ}\\right)}}{6}$.\n\nStep 32: Simplify the solutions to get $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(\\frac{\\cos 70^\\circ}{\\sin 70^\\circ}\\right)^2}}{6}$.\n\nStep 33: Use the fact that $\\tan A = \\frac{\\sin A}{\\cos A}$ to rewrite the solutions as $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(\\tan 70^\\circ\\right)^2}}{6}$.\n\nStep 34: Simplify the solutions to get $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\tan^2 70^\\circ}}{6}$.\n\nStep 35: Use the fact that $\\tan^2 A + 1 = \\sec^2 A$ to rewrite the solutions as $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\sec^2 70^\\circ}}{6}$.\n\nStep 36: Use the Pythagorean identity for secant to rewrite the solutions as $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(1 + \\tan^2 70^\\circ\\right)}}{6}$.\n\nStep 37: Simplify the solutions to get $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3 + 3\\tan^2 70^\\circ}}{6}$.\n\nStep 38: Use the fact that $\\tan^2 A + 1 = \\sec^2 A$ to rewrite the solutions as $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(1 + \\sec^2 70^\\circ - 1\\right)}}{6}$.\n\nStep 39: Use the fact that $\\sec A = \\frac{1}{\\cos A}$ to rewrite the solutions as $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(1 + \\frac{1}{\\cos^2 70^\\circ} - 1\\right)}}{6}$.\n\nStep 40: Use the fact that $\\cos(90^\\circ - A) = \\sin A$ to simplify the solutions to $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(1 + \\frac{1}{\\sin^2 20^\\circ} - 1\\right)}}{6}$.\n\nStep 41: Use the fact that $\\sin^2 A + \\cos^2 A = 1$ to rewrite the solutions as $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(1 + \\frac{\\cos^2 20^\\circ}{\\sin^2 20^\\circ} - 1\\right)}}{6}$.\n\nStep 42: Use the tangent identity $\\tan A = \\frac{\\sin A}{\\cos A}$ to rewrite the solutions as $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(1 + \\frac{\\cos^2 20^\\circ}{\\left(\\frac{\\sin 20^\\circ}{\\cos 20^\\circ}\\right)^2} - 1\\right)}}{6}$.\n\nStep 43: Simplify the solutions to get $x = \\frac{-\\sqrt{3} - \\tan 20^\\circ \\pm \\sqrt{3\\left(1 + \\frac{\\cos^2 20^\\circ}{\\sin^2 20^\\circ}\\cdot \\frac{\\cos^2 20^\\circ}{\\sin^2 20^\\circ}} - 1\\right)}": 1,
+      "-\\tan 40^{\\circ},\\tan 80^{\\circ},-\\tan 20^{\\circ}": 1,
+      "1": 1,
+      "-1.324, 1.057": 1,
+      "\\frac{-\\sqrt{3} + 2}{3}, \\frac{-\\sqrt{3} - 2}{3}": 1,
+      "\\tan \\left(\\frac{\\pi}{9}\\right), \\tan \\left(\\frac{2\\pi}{9}\\right), \\tan \\left(\\frac{4\\pi}{9}\\right)": 1,
+      "\\text{solution3}": 1,
+      "-\\tan 40^{\\circ}, -\\tan 40^{\\circ}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 3
+  },
+  "71": {
+    "correct_answer": "\\frac{3}{4}",
+    "answer_candidates": {
+      "\\frac{1}{64}": 1,
+      "0": 5,
+      "\\text{undefined}": 1,
+      "1": 2,
+      "\\frac{1}{16}": 1,
+      "32": 1,
+      "\\frac{-7 - 20\\sqrt{2}}{16}": 1,
+      "2a^2": 1,
+      "2b^2": 1,
+      "512": 1,
+      "\\text{any real number}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 5
+  },
+  "88": {
+    "correct_answer": "2 \\sqrt{3} + 3",
+    "answer_candidates": {
+      "1": 2,
+      "\\frac{2(\\sin \\alpha \\cos \\beta + \\cos \\alpha \\sin \\beta)}{\\sqrt{3} \\sin \\alpha \\sin \\beta}": 1,
+      "\\cos \\gamma": 1,
+      "-\\cos \\gamma": 1,
+      "\\frac{2}{\\sqrt{3} \\cos \\gamma}": 1,
+      "\\frac{1}{\\sqrt{3}}": 1,
+      "\\frac{\\sqrt[4]{3}}{\\sqrt[4]{3} \\pm \\sqrt{2}}": 1,
+      "\\text{undefined}": 1,
+      "0": 2,
+      "\\frac{2}{\\sqrt{3}}": 1,
+      "-1": 1,
+      "\\frac{\\sqrt{3}}{-2 \\sin \\alpha \\cos \\beta - 2 \\cos \\alpha \\sin \\beta}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 2
+  },
+  "67": {
+    "correct_answer": "-\\frac{1}{16}",
+    "answer_candidates": {
+      "-\\frac{1}{4}": 5,
+      "\\frac{1}{2}": 4,
+      "-\\frac{1}{2}": 6,
+      "-\\frac{1}{16}": 1,
+      "0": 1,
+      "\\frac{3}{32}": 1,
+      "-\\frac{3}{2}": 1,
+      "\\frac{15}{16}": 1
+    },
+    "selected_answer": "-\\frac{1}{2}",
+    "selected_answer_count": 6
+  },
+  "30": {
+    "correct_answer": "\\frac{4}{7}",
+    "answer_candidates": {
+      "\\frac{180-2x}{x}": 1,
+      "1:1": 5,
+      "\\frac{1}{1}": 1,
+      "-180 + 4z": 1,
+      "\\frac{60}{\\angle BPQ}": 1,
+      "3": 1,
+      "\\frac{60^\\circ - \\beta}{20^\\circ}": 1,
+      "\\frac{180^\\circ - \\angle APQ}{120^\\circ}": 1,
+      "\\frac{3}{1}": 2,
+      "\\frac{180}{\\theta} - 2": 1,
+      "\\frac{1}{4}": 1
+    },
+    "selected_answer": "1:1",
+    "selected_answer_count": 5
+  },
+  "31": {
+    "correct_answer": "2",
+    "answer_candidates": {
+      "5": 1,
+      "\\frac{5}{2}, -\\frac{7}{2}": 1,
+      "2 - \\frac{1}{2\\sqrt{3}}": 1,
+      "2 - 2 \\sqrt{3}": 1,
+      "\\frac{3}{2}, -\\frac{3}{2}, \\frac{\\sqrt{3}}{2}, -\\frac{\\sqrt{3}}{2}": 1,
+      "\\frac{94 - 2 \\sqrt{3}}{13}": 1,
+      "2 - \\frac{20\\sqrt{3}}{7}": 1,
+      "-b\\sqrt{3} + 2\\sqrt{b^2 + 8}, -b\\sqrt{3} - 2\\sqrt{b^2 + 8}": 1,
+      "2": 1,
+      "\\frac{3}{5}": 1,
+      "1 + \\frac{3 \\sqrt{3}}{2}": 1,
+      "2-\\sqrt{3}, 2": 1,
+      "\\frac{3}{2}, \\frac{\\sqrt{3}}{2}": 1,
+      "1: The projection of a vector $\\begin{pmatrix} a \\\\ b \\end{pmatrix}$ onto $\\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix}$ is given by the formula $\\text{proj}_{\\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix}} \\begin{pmatrix} a \\\\ b \\end{pmatrix} = \\frac{\\begin{pmatrix} a \\\\ b \\end{pmatrix} \\cdot \\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix}}{\\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix} \\cdot \\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix}} \\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix}.$\nStep 2: We have $\\begin{pmatrix} a \\\\ b \\end{pmatrix} \\cdot \\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix} = a \\sqrt{3} + b.$\nStep 3: We also have $\\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix} \\cdot \\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix} = (\\sqrt{3})^2 + 1^2 = 4.$\nStep 4: Putting it all together, we have $\\text{proj}_{\\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix}} \\begin{pmatrix} a \\\\ b \\end{pmatrix} = \\frac{a \\sqrt{3} + b}{4} \\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix}.$\nStep 5: The magnitude of the resulting vector is $\\sqrt{3}.$\nStep 6: Therefore, we have $\\left\\| \\frac{a \\sqrt{3} + b}{4} \\begin{pmatrix} \\sqrt{3} \\\\ 1 \\end{pmatrix} \\right\\| = \\sqrt{3}.$\nStep 7: Simplifying, we have $\\left\\| \\begin{pmatrix} a \\sqrt{3} + b \\\\ \\frac{a \\sqrt{3} + b}{4} \\end{pmatrix} \\right\\| = \\sqrt{3}.$\nStep 8: This gives us $(a \\sqrt{3} + b)^2 + \\left( \\frac{a \\sqrt{3} + b}{4} \\right)^2 = 3.$\nStep 9: Expanding, we have $a^2 \\cdot 3 + 2ab \\sqrt{3} + b^2 + \\frac{1}{16} a^2 \\cdot 3 + \\frac{1}{8} ab \\sqrt{3} + \\frac{1}{16} b^2 = 3.$\nStep 10: Combining like terms, we have $\\left( a^2 + \\frac{1}{16} a^2 \\right) \\cdot 3 + \\left( 2ab \\sqrt{3} + \\frac{1}{8} ab \\sqrt{3} \\right) + \\left( b^2 + \\frac{1}{16} b^2 \\right) = 3.$\nStep 11: Simplifying, we have $\\left( \\frac{17}{16} a^2 \\right) \\cdot 3 + \\left( \\frac{25}{8} ab \\sqrt{3} \\right) + \\left( \\frac{17}{16} b^2 \\right) = 3.$\nStep 12: Multiplying through by $\\frac{16}{17}$ to eliminate the fractions, we have $3a^2 + \\frac{400}{17} ab \\sqrt{3} + 3b^2 = \\frac{48}{17}.$\nStep 13: Since the magnitude of the resulting vector is $\\sqrt{3},$ we have $3a^2 + \\frac{400}{17} ab \\sqrt{3} + 3b^2 = 3.$\nStep 14: Dividing through by $3,$ we have $a^2 + \\frac{400}{51} ab \\sqrt{3} + b^2 = 1.$\nStep 15: We also have $a = 2 + b \\sqrt{3}.$\nStep 16: Substituting $a = 2 + b \\sqrt{3}$ into the equation $a^2 + \\frac{400}{51} ab \\sqrt{3} + b^2 = 1,$ we get $(2 + b \\sqrt{3})^2 + \\frac{400}{51} (2 + b \\sqrt{3}) b \\sqrt{3} + b^2 = 1.$\nStep 17: Expanding, we have $4 + 4b \\sqrt{3} + 3b^2 + \\frac{800}{51} b \\sqrt{3} + \\frac{400}{51} (b \\sqrt{3})^2 + b^2 = 1.$\nStep 18: Simplifying, we have $4 + 4b \\sqrt{3} + 3b^2 + \\frac{800}{51} b \\sqrt{3} + \\frac{400}{17} b^2 + b^2 = 1.$\nStep 19: Combining like terms, we have $4 + \\left( 4 + \\frac{800}{51} \\right) b \\sqrt{3} + \\left( 3 + \\frac{400}{17} + 1 \\right) b^2 = 1.$\nStep 20: Simplifying, we have $4 + \\left( \\frac{204 + 800}{51} \\right) b \\sqrt{3} + \\left( \\frac{3 + 400 + 17}{17} \\right) b^2 = 1.$\nStep 21: Combining fractions, we have $4 + \\frac{1004}{51} b \\sqrt{3} + \\frac{420}{17} b^2 = 1.$\nStep 22: Subtracting 1 from both sides, we have $3 + \\frac{1004}{51} b \\sqrt{3} + \\frac{420}{17} b^2 = 0.$\nStep 23: Rearranging, we have $\\frac{1004}{51} b \\sqrt{3} + \\frac{420}{17} b^2 + 3 = 0.$\nStep 24: We recognize this equation as a quadratic in $b.$  We can apply the quadratic formula to get $b = \\frac{- \\frac{1004}{51} \\sqrt{3} \\pm \\sqrt{\\left( \\frac{1004}{51} \\right)^2 \\cdot 3 - 4 \\cdot \\frac{420}{17} \\cdot 3}}{2 \\cdot \\frac{420}{17}}.$\nStep 25: Simplifying the expression under the square root, we have $b = \\frac{- \\frac{1004}{51} \\sqrt{3} \\pm \\sqrt{\\frac{1004^2}{51^2} \\cdot 3 - \\frac{4 \\cdot 420 \\cdot 3}{17}}}{2 \\cdot \\frac{420}{17}}.$\nStep 26: We can simplify this further by multiplying by the conjugate, to eliminate the square root in the denominator.  This gives us $b = \\frac{- \\frac{1004}{51} \\sqrt{3} \\pm \\sqrt{\\frac{1004^2}{51^2} \\cdot 3 - \\frac{4 \\cdot 420 \\cdot 3}{17}}}{2 \\cdot \\frac{420}{17}} \\cdot \\frac{\\frac{420}{17} - \\frac{420}{17}}{\\frac{420}{17} - \\frac{420}{17}}.$\nStep 27: Simplifying the numerator, we have $b = \\frac{- \\frac{1004}{51} \\sqrt{3} \\pm \\sqrt{\\frac{1004^2}{51^2} \\cdot 3 \\cdot 17^2 - \\frac{4 \\cdot 420 \\cdot 3}{17} \\cdot 17^2}}{2 \\cdot \\frac{420}{17}} \\cdot \\frac{\\frac{420}{17} - \\frac{420}{17}}{\\frac{420}{17} - \\frac{420}{17}}.$\nStep 28: Simplifying the expression under the square root, we have $b = \\frac{- \\frac{1004}{51} \\sqrt{3} \\pm \\sqrt{\\frac{1004^2}{51^2} \\cdot 3 \\cdot 17^2 - \\frac{4 \\cdot 420 \\cdot 3}{17} \\cdot 17^2}}{2 \\cdot \\frac{420}{17}} \\cdot \\frac{\\frac{420}{17} - \\frac{420}{17}}{\\frac{420}{17} - \\frac{420}{17}}.$\nStep 29: Combining fractions under the square root, we have $b = \\frac{- \\frac{1004}{51} \\sqrt{3} \\pm \\sqrt{\\frac{1004^2 \\cdot 3 \\cdot 17^2 - 4 \\cdot 420 \\cdot 3 \\cdot 17^2}{51^2}}}{2 \\cdot \\frac{420}{17}} \\cdot \\frac{\\frac{420}{17} - \\frac{420}{17}}{\\frac{420}{17} - \\frac{420}{17}}.$\nStep 30: Simplifying the expression under the square root, we have $b = \\frac{- \\frac{1004}{51} \\sqrt{3} \\pm \\sqrt{\\frac{1004^2 \\cdot 3 \\cdot 17^2 - 4 \\cdot 420 \\cdot 3 \\cdot 17^2}{51^2}}}{2 \\cdot \\frac{420}{17}} \\cdot \\frac{\\frac{420}{17} - \\frac{420}{17}}{\\frac{420}{17} - \\frac{420}{17}}.$\nStep 31: Factoring out a $3 \\cdot 17^2$ from the numerator, we have $b = \\frac{- \\frac{1004}{51} \\sqrt{3} \\pm \\sqrt{\\frac{3 \\cdot 17^2 \\cdot (1004^2 - 4 \\cdot 420)}}{51^2}}": 1,
+      "2 + \\frac{1}{2} \\sqrt{3}": 1,
+      "\\frac{7}{2}, \\frac{1}{2}": 1
+    },
+    "selected_answer": "5",
+    "selected_answer_count": 1
+  },
+  "89": {
+    "correct_answer": "4",
+    "answer_candidates": {
+      "\\sqrt{13}": 5,
+      "2\\sqrt{3}": 1,
+      "2": 5,
+      "3": 1,
+      "1": 2,
+      "23": 1,
+      "\\frac{3}{2}": 1,
+      "0": 1,
+      "4": 1,
+      "\\sqrt{5}": 1
+    },
+    "selected_answer": "\\sqrt{13}",
+    "selected_answer_count": 5
+  },
+  "66": {
+    "correct_answer": "7",
+    "answer_candidates": {
+      "1": 6,
+      "12": 5,
+      "13": 4,
+      "144": 1,
+      "572": 1,
+      "4096": 1,
+      "\\infty": 1,
+      "2": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 6
+  },
+  "128": {
+    "correct_answer": "144",
+    "answer_candidates": {
+      "100": 1,
+      "0": 4,
+      "\\text{undefined}": 1,
+      "-248": 1,
+      "36": 2,
+      "16": 1,
+      "50": 1,
+      "24": 1,
+      "2500": 1,
+      "9": 1,
+      "625": 1,
+      "529": 1,
+      "1": 1,
+      "400": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "70": {
+    "correct_answer": "4^\\circ, 20^\\circ",
+    "answer_candidates": {
+      "\\text{no solution}": 1,
+      "0^\\circ, 180^\\circ, 156^\\circ, 132^\\circ": 1,
+      "1": 1,
+      "0^\\circ, 180^\\circ": 1,
+      "6^\\circ, -6^\\circ": 1,
+      "0^\\circ, 15^\\circ, 30^\\circ, 45^\\circ, 60^\\circ, 75^\\circ, 90^\\circ, 120^\\circ, 135^\\circ, 150^\\circ, 180^\\circ, 195^\\circ, 210^\\circ, 225^\\circ, 240^\\circ, 255^\\circ, 270^\\circ, 300^\\circ, 315^\\circ, 330^\\circ, 360^\\circ": 1,
+      "90^\\circ, 270^\\circ, 12.857^\\circ, 38.571^\\circ, 24^\\circ, 336^\\circ": 1,
+      "0^\\circ, 4^\\circ, 8^\\circ, 12^\\circ, 16^\\circ, 20^\\circ, 24^\\circ": 1,
+      "\\frac{30}{16}^\\circ, \\frac{330}{16}^\\circ, \\frac{750}{16}^\\circ, \\frac{1170}{16}^\\circ, \\frac{1590}{16}^\\circ, \\frac{2010}{16}^\\circ, \\frac{2430}{16}^\\circ, \\frac{2850}{16}^\\circ": 1,
+      "0^\\circ, 10^\\circ, 20^\\circ, 24^\\circ": 1,
+      "1, 3": 1
+    },
+    "selected_answer": "\\text{no solution}",
+    "selected_answer_count": 1
+  },
+  "27": {
+    "correct_answer": "16",
+    "answer_candidates": {
+      "10": 1,
+      "\\frac{3b}{5}": 1,
+      "0": 9,
+      "\\frac{8\\sqrt{11}}{5}": 1,
+      "19": 1,
+      "\\frac{3b}{5} \\left(\\frac{1}{\\cos B_1} - \\frac{1}{\\cos B_2}\\right)": 1,
+      "2b": 2,
+      "\\frac{3b}{10}": 1,
+      "\\frac{2b}{3}": 1,
+      "4\\sqrt{21}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 9
+  },
+  "104": {
+    "correct_answer": "840^\\circ",
+    "answer_candidates": {
+      "540^\\circ": 2,
+      "\\frac{\\pi}{6}": 1,
+      "780^\\circ": 2,
+      "150": 1,
+      "230": 1,
+      "600^\\circ": 2,
+      "\\frac{11 \\pi}{3}": 1,
+      "5\\pi": 1,
+      "420^\\circ": 1,
+      "\\frac{3 \\pi}{4}": 1,
+      "420": 1,
+      "\\arctan(-\\sqrt{3}) + 360^\\circ": 1,
+      "480^\\circ": 2,
+      "600": 1,
+      "840^\\circ": 1
+    },
+    "selected_answer": "540^\\circ",
+    "selected_answer_count": 2
+  },
+  "112": {
+    "correct_answer": "27,93",
+    "answer_candidates": {
+      "50, 29, 41": 5,
+      "40": 1,
+      "0": 1,
+      "20\\sqrt{6}": 1,
+      "29, 41, 50": 1,
+      "\\text{All positive numbers}": 1,
+      "50": 1,
+      "41, 29, 50": 1,
+      "29, 41": 1,
+      "61, 64, 41": 1,
+      "\\sqrt{5022}": 1
+    },
+    "selected_answer": "50, 29, 41",
+    "selected_answer_count": 5
+  },
+  "1": {
+    "correct_answer": "\\frac{1}{72}",
+    "answer_candidates": {
+      "\\frac{1}{81}": 1,
+      "\\frac{1}{72}": 4,
+      "\\frac{640}{559}": 1,
+      "\\frac{4000}{4001}": 1,
+      "\\frac{9}{8}": 1,
+      "\\frac{5}{36}": 1,
+      "-\\frac{79}{80}": 1,
+      "\\frac{1}{80}": 1,
+      "\\frac{10}{9}": 2,
+      "\\ln\\left(\\frac{5}{4}\\right)^{\\frac{9}{56}}\\cdot\\ln\\left(\\frac{2}{9}\\right)^{490}": 1,
+      "0": 1,
+      "\\frac{8}{567}": 1,
+      "\\frac{4}{21}": 1
+    },
+    "selected_answer": "\\frac{1}{72}",
+    "selected_answer_count": 4
+  },
+  "85": {
+    "correct_answer": "\\frac{6}{7}",
+    "answer_candidates": {
+      "0": 1,
+      "\\frac{10}{11}": 1,
+      "\\frac{18}{25}": 1,
+      "\\frac{5}{6}": 1,
+      "\\frac{-46}{25}": 1,
+      "1": 1,
+      "\\frac{1}{9}": 2,
+      "\\frac{10}{9}": 6,
+      "\\frac{5}{13}": 1,
+      "\\frac{50}{63}": 1,
+      "\\frac{27}{25}": 1,
+      "\\frac{4}{5}": 1,
+      "2": 1,
+      "\\frac{32}{21}": 1
+    },
+    "selected_answer": "\\frac{10}{9}",
+    "selected_answer_count": 6
+  },
+  "132": {
+    "correct_answer": "\\begin{pmatrix} 1 \\\\ 2 \\\\ -3 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} \\frac{1}{\\sqrt{6}} \\\\ \\frac{2}{\\sqrt{6}} \\\\ -\\frac{1}{\\sqrt{6}} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 13 \\\\ 10 \\\\ 5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{1}{2} \\\\ \\frac{1}{2} \\\\ -\\frac{1}{2} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 9 \\\\ -9 \\\\ -9 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -31 \\\\ 19 \\\\ c \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -\\frac{1}{14} \\\\ \\frac{9}{14} \\\\ -\\frac{4}{7} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 0 \\\\ 0 \\\\ 0 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} \\frac{13}{14} \\\\ -\\frac{1}{7} \\\\ \\frac{3}{14} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -\\frac{4}{3} \\\\ 1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -2 \\\\ -1 \\\\ -12 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -13 \\\\ 1 \\\\ -3 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 13 \\\\ -2 \\\\ 3 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} \\frac{1}{2} \\\\ -1 \\\\ \\frac{3}{2} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -3 \\\\ 0 \\\\ 13 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -\\frac{5}{9} \\\\ \\frac{1}{3} \\\\ 1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 4 \\\\ 1 \\\\ 7 \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 0 \\\\ 0 \\\\ 0 \\end{pmatrix}",
+    "selected_answer_count": 2
+  },
+  "93": {
+    "correct_answer": "8 \\pi",
+    "answer_candidates": {
+      "2 \\pi": 3,
+      "0": 5,
+      "\\frac{4\\pi}{3}": 1,
+      "4\\pi": 2,
+      "1": 1,
+      "-2 \\pi": 1,
+      "8\\pi": 1,
+      "2\\pi": 3,
+      "\\frac{5\\pi}{2}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 5
+  },
+  "124": {
+    "correct_answer": "\\frac{3}{2}",
+    "answer_candidates": {
+      "1": 1,
+      "\\sqrt{13}": 2,
+      "0": 4,
+      "\\frac{3}{2}": 2,
+      "\\frac{1}{2}": 4,
+      "-\\frac{7}{2}": 1,
+      "-\\frac{1}{2}": 2,
+      "6": 1,
+      "3": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "108": {
+    "correct_answer": "4096 \\sqrt{2}",
+    "answer_candidates": {
+      "2": 1,
+      "\\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}": 1,
+      "0": 1,
+      "2^{100}": 3,
+      "1: We are given that $\\psi(1) = \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}$. \n\nStep 2: We want to find $\\prod_{n = 1}^{100} \\psi(3^n)$. \n\nStep 3: Notice that the given functional equation $\\psi(3x) + 3 \\psi(x) = \\psi^3(x)$ can be rewritten as $\\psi^3(x) - 3 \\psi(x) - \\psi(3x) = 0$. \n\nStep 4: Let $x = 3^n$ in the functional equation. This gives us $\\psi^3(3^n) - 3 \\psi(3^n) - \\psi(3^{n+1}) = 0$. \n\nStep 5: We can rewrite this equation as $\\psi(3^{n+1}) = \\psi^3(3^n) - 3 \\psi(3^n)$. \n\nStep 6: By induction, we can show that $\\psi(3^n) = \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3^n}$ for all positive integers $n$. \n\nStep 7: Therefore, $\\psi(3^{n+1}) = \\left(\\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3^n}\\right)^3 - 3 \\cdot \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3^n}$. \n\nStep 8: Simplifying, we get $\\psi(3^{n+1}) = \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3^{n+1}} - 3 \\cdot \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3^n}$. \n\nStep 9: Notice that $\\psi(3^{n+1})$ can be expressed in terms of $\\psi(3^n)$. \n\nStep 10: We can use this recursive relationship to find $\\psi(3^{100})$ in terms of $\\psi(1)$. \n\nStep 11: Finally, we can evaluate $\\prod_{n = 1}^{100} \\psi(3^n)$ by repeatedly substituting the recursive relationship and simplifying. \n\nStep 12: We can then express the final answer in terms of $\\psi(1)$. \n\nFinal answer: $\\prod_{n = 1}^{100} \\psi(3^n) = \\psi(3^{100}) = \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3^{100}} - 3 \\cdot \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3^{99}} - 3 \\cdot \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3^{98}} - \\dots - 3 \\cdot \\sqrt{2 + \\sqrt{2 + \\sqrt{2}}}^{\\,3} - 3 \\cdot \\psi(1": 1,
+      "\\frac{1}{2^{100}}": 1,
+      "3^{1683.\\overline{3}}": 1
+    },
+    "selected_answer": "2^{100}",
+    "selected_answer_count": 3
+  },
+  "50": {
+    "correct_answer": "1, -3",
+    "answer_candidates": {
+      "-3, -\\frac{2}{3}": 1,
+      "0, -1, -2, -\\frac{1}{2}": 1,
+      "-2, -1, 2": 1,
+      "-2": 2,
+      "1, 2, -3": 1,
+      "-4, -1, 1": 1,
+      "-3, \\frac{-1 \\pm \\sqrt{17}}{2}": 1,
+      "1, 2, 4": 1,
+      "1, 2": 1,
+      "1, -3": 1,
+      "-2, 3, 4": 1,
+      "k = 2, \\frac{1 \\pm \\sqrt{41}}{4}": 1,
+      "0, 1, 8": 1,
+      "-1, -4": 1,
+      "-1, \\frac{2}{3}": 1
+    },
+    "selected_answer": "-2",
+    "selected_answer_count": 2
+  },
+  "11": {
+    "correct_answer": "(4,24)",
+    "answer_candidates": {
+      "\\left(\\sqrt{2}, 3\\pi\\right)": 1,
+      "(2\\sqrt{2}, 20)": 1,
+      "(4, 2)": 1,
+      "(2,2)": 1,
+      "(1, 3)": 2,
+      "(\\sqrt{6}, 4)": 1,
+      "(2\\sqrt{6}, 4)": 1,
+      "(2, 3)": 1,
+      "(4,6)": 1,
+      "(2\\sqrt{2},6)": 1,
+      "(2, 2)": 1
+    },
+    "selected_answer": "(1, 3)",
+    "selected_answer_count": 2
+  },
+  "46": {
+    "correct_answer": "12",
+    "answer_candidates": {
+      "8": 8,
+      "4": 3,
+      "1": 3,
+      "0": 1,
+      "\\infty": 2,
+      "2": 1,
+      "7": 1,
+      "35": 1
+    },
+    "selected_answer": "8",
+    "selected_answer_count": 8
+  },
+  "69": {
+    "correct_answer": "120^\\circ",
+    "answer_candidates": {
+      "298.38": 1,
+      "160^\\circ": 1,
+      "10": 2,
+      "165^\\circ": 1,
+      "35^\\circ": 1,
+      "175^\\circ": 1,
+      "30": 2,
+      "15^\\circ": 3,
+      "75^\\circ": 1,
+      "25^\\circ": 1,
+      "15^\\circ + 180^\\circ = 195^\\circ": 1,
+      "30^\\circ": 1,
+      "11.536": 1,
+      "11.3099": 1,
+      "41.81^\\circ": 1
+    },
+    "selected_answer": "15^\\circ",
+    "selected_answer_count": 3
+  },
+  "131": {
+    "correct_answer": "-\\frac{4}{3}",
+    "answer_candidates": {
+      "1": 1,
+      "-2": 1,
+      "-12": 1,
+      "\\frac{4}{3}": 1,
+      "\\frac{-12}{35}": 1,
+      "\\frac{i}{\\sqrt{26}\\sin x}": 1,
+      "\\tan \\left(\\sin^{-1} \\left(\\frac{1}{5} \\right) - \\frac{\\pi}{4} \\right)": 1,
+      "-\\frac{12}{25}": 4,
+      "-3": 1,
+      "-\\frac{4}{5}": 1,
+      "\\frac{12}{25\\sin x - 5}": 1,
+      "-\\frac{12}{25(1 - \\sin^2 x)}": 1,
+      "\\frac{-12}{25\\cos x}": 1,
+      "0": 1,
+      "-\\frac{12}{\\sqrt{481}}": 1,
+      "\\frac{1}{5}": 1
+    },
+    "selected_answer": "-\\frac{12}{25}",
+    "selected_answer_count": 4
+  },
+  "2": {
+    "correct_answer": "\\begin{pmatrix} 1 \\\\ 4 \\\\ 3 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} 57 \\\\ -20 \\\\ -36 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ 4 \\\\ 3 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} -\\frac{7}{3} \\\\ \\frac{49}{6} \\\\ \\frac{49}{6} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 53/9 \\\\ 4 \\\\ 53/27 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -3 \\\\ 7 \\\\ 3 \\end{pmatrix}": 1,
+      "\\left(\\frac{377}{5}, -\\frac{83}{5}, -\\frac{1096}{10}\\right)": 1,
+      "\\begin{pmatrix} 9 \\\\ -3 \\\\ -6 \\end{pmatrix}": 1,
+      "\\left(\\frac{169}{7}, 4, \\frac{-33}{7}\\right)": 1,
+      "\\begin{pmatrix} 9.333 \\\\ 4.333 \\\\ 7.667 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 13 \\\\ 4 \\\\ -1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{1}{2} \\\\ 4 \\\\ 6 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 8.5 \\\\ 4 \\\\ 0.5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 8 \\\\ 1 \\\\ 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 19 \\\\ -3 \\\\ -4 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 73 \\\\ -17/2 \\\\ -51/4 \\end{pmatrix}": 1,
+      "\\left(-\\frac{5}{2}, \\frac{17}{4}, \\frac{33}{4}\\right)": 1,
+      "\\begin{pmatrix} -\\frac{1}{3} \\\\ 8 \\\\ 3 \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 1 \\\\ 4 \\\\ 3 \\end{pmatrix}",
+    "selected_answer_count": 2
+  },
+  "86": {
+    "correct_answer": "(2,-1)",
+    "answer_candidates": {
+      "\\left(\\frac{3}{2}, -\\frac{3}{2}\\right)": 1,
+      "(2,-\\frac{3}{2})": 1,
+      "(2 \\sqrt[3]{3}, 0)": 1,
+      "2,0": 1,
+      "(0, 2 \\sqrt[3]{3})": 1,
+      "2\\sqrt[3]{3}": 1,
+      "(0,2)": 1,
+      "(2,3)": 1,
+      "(2,1)": 1,
+      "(2, 0)": 1,
+      "(0,-1)": 1,
+      "(2 \\sqrt[3]{3}, 2 \\sqrt[3]{3 \\sin^2 10^\\circ})": 1,
+      "-2": 1
+    },
+    "selected_answer": "\\left(\\frac{3}{2}, -\\frac{3}{2}\\right)",
+    "selected_answer_count": 1
+  },
+  "127": {
+    "correct_answer": "14",
+    "answer_candidates": {
+      "4": 1,
+      "3": 1,
+      "5": 2,
+      "9": 1,
+      "11": 2,
+      "7": 3,
+      "6": 1,
+      "0": 2,
+      "39": 1,
+      "10": 1,
+      "13": 2,
+      "19": 1,
+      "22": 1
+    },
+    "selected_answer": "7",
+    "selected_answer_count": 3
+  },
+  "90": {
+    "correct_answer": "\\frac{1}{2}",
+    "answer_candidates": {
+      "1": 6,
+      "\\frac{1}{2}": 1,
+      "0": 5,
+      "2": 2,
+      "-1": 1,
+      "\\left|\\mathbf{w}\\right|": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 6
+  },
+  "28": {
+    "correct_answer": "27",
+    "answer_candidates": {
+      "11755": 1,
+      "27": 1,
+      "121": 1,
+      "\\frac{\\sqrt{23}}{8} + \\frac{\\sqrt{23}}{3}": 1,
+      "8": 1,
+      "10": 1,
+      "157": 1,
+      "\\frac{11}{2}": 1,
+      "\\frac{23}{2}": 1,
+      "61": 1,
+      "83": 1,
+      "99": 1,
+      "1": 1,
+      "29": 1,
+      "\\frac{278}{27}": 1,
+      "52": 1
+    },
+    "selected_answer": "11755",
+    "selected_answer_count": 1
+  },
+  "53": {
+    "correct_answer": "\\frac{9}{10}",
+    "answer_candidates": {
+      "\\frac{3}{10} - \\frac{1}{\\sqrt{10}}": 1,
+      "\\frac{1077}{360} - \\frac{2(359)^{\\frac{3}{2}}}{360}": 1,
+      "\\frac{243}{50}": 1,
+      "-2": 1,
+      "1": 2,
+      "-\\frac{9}{2} - \\frac{1}{2} \\sqrt{\\frac{3}{5}} - \\frac{1}{2\\sqrt{10}}": 1,
+      "\\frac{1}{20}": 1,
+      "\\frac{33}{50}": 1,
+      "-1080": 1,
+      "\\frac{13}{100}": 1,
+      "\\frac{5}{2}": 1,
+      "\\frac{159}{160} \\left( 3 - 2 \\sqrt{\\frac{159}{160}} \\right)": 1,
+      "235": 1,
+      "\\frac{59}{60} - \\frac{59^3}{60^3}": 1,
+      "\\frac{134}{125}": 1,
+      "1 - \\frac{2\\sqrt{3}}{3}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 2
+  },
+  "12": {
+    "correct_answer": "18",
+    "answer_candidates": {
+      "\\text{Undefined}": 1,
+      "12": 1,
+      "4 + 2\\sqrt{3}": 1,
+      "0": 4,
+      "132": 1,
+      "16": 2,
+      "15": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "45": {
+    "correct_answer": "\\frac{7}{8}",
+    "answer_candidates": {
+      "\\frac{3}{4}": 3,
+      "\\frac{1}{4}": 2,
+      "0": 6,
+      "\\frac{1}{2}": 1,
+      "1": 2
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 6
+  },
+  "32": {
+    "correct_answer": "3, 11, 33",
+    "answer_candidates": {
+      "3, 15": 1,
+      "3": 2,
+      "2, 6, 14, 30": 1,
+      "3, 6, 9, 12, 15, 18, 21, 24, 27, 30, \\dots": 1,
+      "\\text{no}": 1,
+      "5": 1,
+      "32, 64": 1,
+      "1, 2, 4, 8, 16": 1,
+      "2, 6, 10, 14": 1,
+      "\\text{None}": 1
+    },
+    "selected_answer": "3",
+    "selected_answer_count": 2
+  },
+  "65": {
+    "correct_answer": "3 + \\sqrt{6}",
+    "answer_candidates": {
+      "5+2\\sqrt{6}": 1,
+      "3 + 2\\sqrt{2}": 3,
+      "2": 2,
+      "\\frac{3}{2}": 1,
+      "\\frac{1}{2}": 3,
+      "1": 2,
+      "\\frac{19+2\\sqrt{70}}{2}": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{9}{2}": 1,
+      "3": 1,
+      "5 + 2\\sqrt{6}": 1,
+      "3+2\\sqrt{2}": 1,
+      "4": 1
+    },
+    "selected_answer": "3 + 2\\sqrt{2}",
+    "selected_answer_count": 3
+  },
+  "73": {
+    "correct_answer": "\\frac{\\sqrt{6}}{3}",
+    "answer_candidates": {
+      "0": 3,
+      "\\frac{2}{\\sqrt{3}}": 1,
+      "\\frac{\\sqrt{2}}{2}": 1,
+      "\\frac{\\sqrt{7}}{4}": 1,
+      "1": 1,
+      "\\frac{|x + y + z|}{\\sqrt{3}}": 1,
+      "\\sqrt{3} - \\frac{1}{2}": 1,
+      "\\frac{\\sqrt{2}}{4}": 1,
+      "\\frac{2\\sqrt{3}}{3}": 1,
+      "\\sqrt{2}": 6,
+      "\\frac{1}{2}\\sqrt{2}": 1
+    },
+    "selected_answer": "\\sqrt{2}",
+    "selected_answer_count": 6
+  },
+  "24": {
+    "correct_answer": "82",
+    "answer_candidates": {
+      "2^{2019}": 1,
+      "170": 1,
+      "8^{2019}": 1,
+      "6": 1,
+      "14.4": 1,
+      "8": 2,
+      "1": 1,
+      "176": 1,
+      "4": 1,
+      "60": 1,
+      "48": 1,
+      "274": 1,
+      "2^{2017}": 1,
+      "0": 1,
+      "2019": 1,
+      "90": 1
+    },
+    "selected_answer": "8",
+    "selected_answer_count": 2
+  },
+  "107": {
+    "correct_answer": "4",
+    "answer_candidates": {
+      "1": 8,
+      "3": 1,
+      "6": 1,
+      "4": 1,
+      "0": 1,
+      "\\infty": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 8
+  },
+  "49": {
+    "correct_answer": "\\frac{16 \\pi}{3}",
+    "answer_candidates": {
+      "3\\pi": 1,
+      "\\frac{5}{4}\\pi": 1,
+      "\\pi": 2,
+      "2\\pi": 2,
+      "0": 2,
+      "\\frac{2\\pi}{3} - \\frac{\\sqrt{3}}{2}": 1,
+      "\\frac{3}{2}\\pi": 7,
+      "\\frac{3\\pi}{2}": 1,
+      "\\frac{3}{4} \\pi": 1,
+      "\\frac{3}{2} \\pi": 1,
+      "\\frac{3}{4}\\pi": 1
+    },
+    "selected_answer": "\\frac{3}{2}\\pi",
+    "selected_answer_count": 7
+  },
+  "111": {
+    "correct_answer": "\\frac{5 \\sqrt{6}}{3}",
+    "answer_candidates": {
+      "5": 2,
+      "10": 13,
+      "\\frac{5\\sqrt{2}}{2}": 2,
+      "5\\sqrt{2}": 2,
+      "10\\sqrt{3}": 1
+    },
+    "selected_answer": "10",
+    "selected_answer_count": 13
+  },
+  "48": {
+    "correct_answer": "(0,1)",
+    "answer_candidates": {
+      "0": 4,
+      "1, -1": 1,
+      "(-\\infty, -1)": 1,
+      "-7": 1,
+      "(-\\infty, -3]": 1,
+      "1": 1,
+      "-1": 1,
+      "-2\\cos^2 x": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "110": {
+    "correct_answer": "\\begin{pmatrix} 2 \\\\ -1 \\\\ -5 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} 11 \\\\ 2 \\\\ 10 \\end{pmatrix}": 5,
+      "\\begin{pmatrix} 3 \\\\ -4 \\\\ 5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{11}{15} \\\\ \\frac{2}{15} \\\\ \\frac{2}{3} \\end{pmatrix}": 2,
+      "\\begin{pmatrix} -\\frac{1}{3} \\\\ \\frac{2}{3} \\\\ -\\frac{2}{3} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 2 \\\\ -5 \\\\ 5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 2 \\\\ -1 \\\\ -2 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} 1 \\\\ -1 \\\\ -1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 2 \\\\ -7 \\\\ -1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ 5 \\\\ 1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{2}{3} \\\\ -\\frac{1}{3} \\\\ -\\frac{2}{3} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 8 \\\\ 4 \\\\ -2 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 2 \\\\ -2 \\\\ 2 \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 11 \\\\ 2 \\\\ 10 \\end{pmatrix}",
+    "selected_answer_count": 5
+  },
+  "106": {
+    "correct_answer": "3^{2007}",
+    "answer_candidates": {
+      "1": 3,
+      "2007": 1,
+      "2": 7,
+      "\\text{three}": 1,
+      "3": 3,
+      "0": 2,
+      "\\infty": 1
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 7
+  },
+  "25": {
+    "correct_answer": "7",
+    "answer_candidates": {
+      "\\frac{\\sqrt{2 \\cdot 3 \\cdot 54777}}{89}": 1,
+      "\\sqrt{824}": 1,
+      "\\sqrt{114}": 2,
+      "\\sqrt{115}": 1,
+      "\\sqrt{138}": 7,
+      "6": 1,
+      "\\frac{3}{\\sqrt{2}}": 1,
+      "\\sqrt{174}": 1,
+      "\\sqrt{166}": 1,
+      "1.18": 1,
+      "8": 1,
+      "0": 1,
+      "12": 1
+    },
+    "selected_answer": "\\sqrt{138}",
+    "selected_answer_count": 7
+  },
+  "72": {
+    "correct_answer": "-1,0,1",
+    "answer_candidates": {
+      "-\\frac{1}{2}": 1,
+      "-\\frac{2}{3}": 1,
+      "-1, 1": 3,
+      "0, 2": 1,
+      "-2, 1": 1,
+      "0": 2,
+      "\\pm \\sqrt{2}": 1,
+      "-1, -2, 2": 1,
+      "-1": 1,
+      "-1, \\frac{1 \\pm \\sqrt{1 - 4}}{2}": 1,
+      "0, 1, 2, -1": 1,
+      "k": 1,
+      "-1, 0, 1": 1,
+      "\\frac{1}{2}, -1": 1,
+      "\\frac{2}{3}": 1
+    },
+    "selected_answer": "-1, 1",
+    "selected_answer_count": 3
+  },
+  "64": {
+    "correct_answer": "8x^3 - 6x - 1",
+    "answer_candidates": {
+      "-4x^3 + 4x": 1,
+      "-8x^3 + 6x + 1": 1,
+      "x^3 - (\\cos 20^\\circ + 2\\cos 10^\\circ) x^2 + (2\\cos 10^\\circ \\cos 20^\\circ - \\frac{\\cos 20^\\circ + 1}{2}) x - \\frac{\\cos 20^\\circ + 1}{2} \\cos 20^\\circ": 1,
+      "x^3 - x^2 + 2x + 1": 1,
+      "x^3": 1,
+      "2x^3 + 3x^2 + x - 2": 1,
+      "x^3 + x^2 -\\frac{1}{2}x + \\frac{1}{8}": 1,
+      "2x^3 + 3x^2 + x - 2 \\cos 20^\\circ x^2 - 3 \\cos 20^\\circ x - \\cos 20^\\circ": 1,
+      "2x^3 + (\\sin 20^\\circ)^2 (x - 1) - (\\sin 20^\\circ)^2": 1,
+      "-8x^3 - 6x^2 + 2x + \\frac{1}{2} \\cdot (\\cos 20^\\circ + \\cos 100^\\circ)": 1,
+      "-x^3 + 17x^2 + (-8 - 8\\sqrt{3})x + d": 1,
+      "-x^3 + (2 \\cos 20^\\circ - 1)x^2 - (\\cos 20^\\circ - 1)x - 1": 1
+    },
+    "selected_answer": "-4x^3 + 4x",
+    "selected_answer_count": 1
+  },
+  "33": {
+    "correct_answer": "49",
+    "answer_candidates": {
+      "9": 2,
+      "6": 2,
+      "7": 4,
+      "4": 2,
+      "1": 1,
+      "3": 2,
+      "42": 1,
+      "d": 1,
+      "8": 1,
+      "10": 1,
+      "2": 1
+    },
+    "selected_answer": "7",
+    "selected_answer_count": 4
+  },
+  "44": {
+    "correct_answer": "120^\\circ",
+    "answer_candidates": {
+      "90^\\circ": 3,
+      "72": 1,
+      "90": 2,
+      "45": 1,
+      "0^\\circ, 90^\\circ": 2,
+      "45^\\circ, -45^\\circ": 1,
+      "60^\\circ, 120^\\circ": 1,
+      "67.5^\\circ": 1,
+      "120": 2,
+      "180": 1,
+      "0": 1
+    },
+    "selected_answer": "90^\\circ",
+    "selected_answer_count": 3
+  },
+  "13": {
+    "correct_answer": "\\frac{1}{3}",
+    "answer_candidates": {
+      "\\frac{4}{5}": 1,
+      "\\sqrt{2}": 2,
+      "\\frac{\\sqrt{5}}{5}": 1,
+      "\\frac{\\sqrt{6}}{4}": 2,
+      "\\frac{\\sqrt{438}}{12}": 1,
+      "\\sqrt{\\frac{13}{6}}": 1,
+      "\\frac{\\sqrt{11}}{12}": 1,
+      "0": 3,
+      "-\\infty": 1,
+      "\\frac{i}{\\sqrt{2}}": 1,
+      "\\frac{1}{2}": 1,
+      "\\frac{\\sqrt{91}}{10}": 1,
+      "\\frac{1}{6}": 1,
+      "1": 2
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 3
+  },
+  "52": {
+    "correct_answer": "\\frac{3}{2} + \\frac{3}{2} i",
+    "answer_candidates": {
+      "0": 1,
+      "\\frac{d + b}{a}": 1,
+      "\\frac{c + b}{a}": 1,
+      "\\frac{-2}{i}": 1,
+      "1+\\frac{a}{b}": 1,
+      "2": 3,
+      "\\sqrt{2}": 1,
+      "\\text{undefined}": 1,
+      "\\sqrt{2} + 1": 1,
+      "1+\\frac{c}{b}": 1,
+      "\\frac{1}{i}": 1,
+      "\\frac{(x + y)(r - s) + (p^2 - q^2)}{(x - y)(p - q)} + \\frac{2pq}{(x - y)(p - q)} i": 1,
+      "\\frac{xy^2 + x^2y}{x^2y^2}": 1,
+      "1": 1,
+      "\\frac{-a^2c + b^2}{ab^2}": 1,
+      "-1": 1
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 3
+  },
+  "29": {
+    "correct_answer": "2 - 2 \\sqrt{2}",
+    "answer_candidates": {
+      "-2\\cos^2 x": 1,
+      "\\frac{-\\sin(\\frac{\\pi}{4} + x)}{\\sqrt{2 + 2\\cos x \\sin x}}": 1,
+      "0": 5,
+      "1": 3,
+      "2\\sin x(\\sin x - 1)": 1,
+      "2(\\sin x)": 1,
+      "2\\sin x": 1,
+      "\\frac{1}{2}": 1,
+      "-\\frac{4}{3}\\sin 2x": 1,
+      "-\\sqrt{2} \\cos x": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 5
+  },
+  "126": {
+    "correct_answer": "\\begin{pmatrix} -6 \\\\ 9 \\end{pmatrix}",
+    "answer_candidates": {
+      "3": 1,
+      "\\mathbf{0}": 11,
+      "\\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix}": 5,
+      "0": 1
+    },
+    "selected_answer": "\\mathbf{0}",
+    "selected_answer_count": 11
+  },
+  "91": {
+    "correct_answer": "\\frac{5\\pi}{4}",
+    "answer_candidates": {
+      "[0, 2\\pi]": 1,
+      "\\frac{\\pi}{28}, \\frac{\\pi}{7}, \\frac{3\\pi}{28}, \\frac{27\\pi}{28}": 1,
+      "\\frac{\\pi}{24}": 1,
+      "0, \\frac{\\pi}{2}, \\pi, \\frac{2\\pi}{3}, \\frac{4\\pi}{3}, \\frac{3\\pi}{2}, 2\\pi": 1,
+      "\\frac{\\pi}{8}, \\frac{\\pi}{12}, \\frac{5 \\pi}{12}, \\frac{9 \\pi}{8}, \\frac{9 \\pi}{12}, \\frac{13 \\pi}{12}": 1,
+      "0.468, 0.729, 1.039, 1.257, 1.470, 1.670, 1.856, 2.021, 2.161, 2.273, 2.355, 2.405, 2.421, 2.401, 2.344, 2.253": 1,
+      "\\frac{\\pi}{12}, \\frac{5 \\pi}{12}, \\frac{13 \\pi}{12}, \\frac{17 \\pi}{12}": 1,
+      "\\frac{\\pi}{20}, \\frac{\\pi}{4}, \\frac{3\\pi}{20}, \\frac{\\pi}{2}, \\frac{7\\pi}{20}, \\frac{9\\pi}{20}, \\frac{3\\pi}{4}, \\frac{11\\pi}{20}, \\frac{13\\pi}{20}, \\frac{7\\pi}{4}, \\frac{15\\pi}{20}, \\frac{17\\pi}{20}, \\frac{19\\pi}{20}, \\frac{5\\pi}{4}, \\frac{21\\pi}{20}, \\frac{23\\pi}{20}, \\frac{27\\pi}{20}, \\frac{29\\pi}{20}": 1
+    },
+    "selected_answer": "[0, 2\\pi]",
+    "selected_answer_count": 1
+  },
+  "68": {
+    "correct_answer": "9",
+    "answer_candidates": {
+      "36": 1,
+      "8": 1,
+      "7": 1,
+      "0": 3,
+      "\\frac{9}{4}": 1,
+      "5": 1,
+      "6": 3,
+      "3": 3,
+      "4": 2,
+      "\\frac{19}{2}": 1,
+      "12": 1,
+      "9": 1,
+      "-8": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 3
+  },
+  "130": {
+    "correct_answer": "6 - 5i",
+    "answer_candidates": {
+      "-4 + 2\\sqrt{2} - (1 - \\sqrt{2})i": 1,
+      "-1 - \\frac{9}{2}i": 1,
+      "-1 - \\sqrt{2} - 2i - i\\sqrt{2}": 1,
+      "11 + \\frac{3\\sqrt{2}}{2} + (\\frac{9\\sqrt{2}}{2} - 3)i": 1,
+      "\\left(2 - \\frac{\\sqrt{2}}{2}\\right) - \\left(\\frac{5\\sqrt{2}}{2} + 3\\right)i": 1,
+      "2 - \\sqrt{2} - 2\\sqrt{2}i - 3i": 1,
+      "-\\frac{5\\sqrt{2}}{2} - \\frac{9}{2}i": 1,
+      "-2 - 3i - 4\\sqrt{2} - 2\\sqrt{2}i": 1,
+      "(-\\sqrt{2} - 3) + (-\\sqrt{2} - 3)i": 1,
+      "2 - i": 1,
+      "2 - \\sqrt{2} - \\frac{17\\sqrt{2}}{2}i - \\frac{15}{2}i - \\frac{9i\\sqrt{2}}{2}": 1,
+      "\\frac{-1}{2} - \\frac{7}{2}\\sqrt{2}i": 1,
+      "2 - 3i": 1,
+      "-8 - 4\\sqrt{2}i": 1,
+      "3\\sqrt{2} + 4 - 6i": 1,
+      "-3i - \\left(\\frac{7\\sqrt{2}}{2} + 5\\sqrt{2}\\right)": 1,
+      "-1 - \\frac{8\\sqrt{2}}{2}i - \\frac{5}{2}i": 1,
+      "\\frac{5}{2} - \\frac{3\\sqrt{2} + 6}{2}i": 1,
+      "\\frac{3}{2} - 4\\sqrt{2} + \\left(-\\frac{5}{2} - 4\\sqrt{2}\\right)i": 1
+    },
+    "selected_answer": "-4 + 2\\sqrt{2} - (1 - \\sqrt{2})i",
+    "selected_answer_count": 1
+  },
+  "87": {
+    "correct_answer": "\\frac{1}{8}",
+    "answer_candidates": {
+      "0.9145": 1,
+      "0.7181": 1,
+      "\\frac{3}{4}": 1,
+      "0.031": 1,
+      "\\cos^2(51.43^\\circ)": 1,
+      "0.186": 1,
+      "\\frac{1}{4}": 3,
+      "\\frac{1}{2} \\left(1 + \\cos \\left(\\frac{4}{7} \\cdot 180^\\circ\\right)\\right)": 1,
+      "\\frac{4}{9}": 1,
+      "0.8121": 1,
+      "\\cos^2 \\angle GOM": 1,
+      "0.823": 1,
+      "\\cos^2 \\frac{5\\pi}{7}": 1,
+      "\\frac{49}{144}": 1,
+      "0.113": 1,
+      "0.173": 1,
+      "\\frac{1}{2}\\left(\\cos\\left(\\frac{720^\\circ}{7}\\right)+1\\right)": 1,
+      "0.2778": 1
+    },
+    "selected_answer": "\\frac{1}{4}",
+    "selected_answer_count": 3
+  },
+  "3": {
+    "correct_answer": "-3",
+    "answer_candidates": {
+      "-5": 1,
+      "3": 2,
+      "\\frac{1}{3}": 1,
+      "-3": 6,
+      "1": 1,
+      "0": 1,
+      "-\\frac{21}{2}": 1,
+      "9": 1,
+      "-1": 1,
+      "6": 1,
+      "\\frac{20}{3}": 1
+    },
+    "selected_answer": "-3",
+    "selected_answer_count": 6
+  },
+  "34": {
+    "correct_answer": "4",
+    "answer_candidates": {
+      "1": 6,
+      "\\infty": 6,
+      "0": 1,
+      "4": 2,
+      "11": 1,
+      "3": 2
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 6
+  },
+  "63": {
+    "correct_answer": "-3",
+    "answer_candidates": {
+      "\\sec^2 z + \\sec^2 y": 1,
+      "-3": 2,
+      "\\text{undefined}": 1,
+      "\\frac{-3}{(\\cos x + \\cos y)^2(\\cos x + \\cos z)^2(\\cos y + \\cos z)^2}": 1,
+      "1": 1,
+      "- \\frac{29}{4} - 3 \\cos^2 x \\cos^2 y \\cos^2 z": 1,
+      "0": 4,
+      "3": 2,
+      "\\frac{33}{2} - \\frac{21}{\\cos^2 x \\cos^2 y \\cos^2 z} - 3 \\tan^2 x \\tan^2 y \\tan^2 z": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "8": {
+    "correct_answer": "65536",
+    "answer_candidates": {
+      "1": 1,
+      "0": 3,
+      "\\frac{1}{2}\\text{cis}\\theta^2": 1,
+      "2": 1,
+      "\\text{negative}": 1,
+      "z_1z_1=\\vert z_1\\vert^2": 1,
+      "4": 1,
+      "\\text{None}": 1,
+      "\\text{No possible values for } z_1": 1,
+      "\\text{any complex number}": 1,
+      "(4c^2+4d^2)(a^3+b^3i)": 1,
+      "\\text{non-zero}": 1,
+      "-\\frac{1}{4}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 3
+  },
+  "75": {
+    "correct_answer": "\\frac{19}{21}",
+    "answer_candidates": {
+      "\\frac{-23}{9 \\sqrt{14}}": 1,
+      "\\frac{17}{21}": 1,
+      "-\\frac{19}{21}": 7,
+      "-\\frac{19}{63}": 1,
+      "\\frac{-19}{21}": 3,
+      "\\frac{1}{14}": 1,
+      "-1": 1,
+      "\\frac{-13}{49}": 1,
+      "\\frac{-23}{21}": 1
+    },
+    "selected_answer": "-\\frac{19}{21}",
+    "selected_answer_count": 7
+  },
+  "22": {
+    "correct_answer": "92",
+    "answer_candidates": {
+      "999": 2,
+      "91": 1,
+      "0": 3,
+      "1": 2,
+      "499": 1,
+      "1 + \\pi": 1,
+      "180 + \\pi": 1,
+      "998": 1,
+      "2": 3,
+      "1000": 1,
+      "90": 1,
+      "2\\pi": 1,
+      "190": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 3
+  },
+  "59": {
+    "correct_answer": "\\frac{\\sqrt{10}}{5}",
+    "answer_candidates": {
+      "\\frac{1}{2}": 10,
+      "\\frac{\\sqrt{2}}{2}": 2,
+      "\\text{constant}": 1,
+      "1": 3,
+      "0": 3,
+      "\\frac{\\sqrt{3}}{2}": 1
+    },
+    "selected_answer": "\\frac{1}{2}",
+    "selected_answer_count": 10
+  },
+  "101": {
+    "correct_answer": "(7,21,35)",
+    "answer_candidates": {
+      "\\begin{pmatrix} -1 + 3t \\\\ 5 + 6t \\\\ 3 + 12t \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{1}{3} \\\\ 5 \\\\ \\frac{25}{3} \\end{pmatrix}": 1,
+      "\\left(-\\frac{1}{2}, \\frac{1}{2}, 0\\right)": 1,
+      "\\begin{pmatrix} 1 \\\\ 9 \\\\ 11 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 0 \\\\ 2 \\\\ 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -2 \\\\ 3 \\\\ -1 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} -1 \\\\ -2 \\\\ -3 \\end{pmatrix}": 1,
+      "\\left(-\\frac{2}{3}, \\frac{14}{3}, \\frac{11}{3}\\right)": 1,
+      "\\text{There is no point } Q": 1,
+      "\\begin{pmatrix} 2 \\\\ 5 \\\\ 7 \\end{pmatrix}": 1,
+      "\\left( -\\frac{17}{2}, \\frac{15}{4}, -\\frac{1}{2} \\right)": 1,
+      "\\begin{pmatrix} 2 \\\\ -3 \\\\ 5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -3 \\\\ 1 \\\\ 0 \\end{pmatrix}": 1,
+      "\\left(-\\frac{5}{2}, 2, -3\\right)": 1,
+      "\\begin{pmatrix} -1 \\\\ 0 \\\\ 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -1 \\\\ 5 \\\\ 3 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 0 \\\\ -\\frac{1}{2} \\\\ -\\frac{1}{2} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 10 \\\\ -14 \\\\ 7 \\end{pmatrix}": 1,
+      "\\left( -\\frac{9}{4}, \\frac{5}{2}, -2 \\right)": 1
+    },
+    "selected_answer": "\\begin{pmatrix} -2 \\\\ 3 \\\\ -1 \\end{pmatrix}",
+    "selected_answer_count": 2
+  },
+  "18": {
+    "correct_answer": "\\frac{25 \\sqrt{10}}{4}",
+    "answer_candidates": {
+      "\\frac{27\\sqrt{10}}{4}": 1,
+      "2\\sqrt{99}": 1,
+      "-\\frac{116}{3}\\sqrt{{82}}": 1,
+      "-\\frac{5\\sqrt{10}}{2}": 1,
+      "\\frac{280}{3}": 1,
+      "72": 1,
+      "\\frac{160\\sqrt{10}}{3}": 1,
+      "0": 2,
+      "19.28": 1,
+      "120": 1,
+      "4\\sqrt{10}": 1,
+      "4 \\sqrt{68}": 1,
+      "16": 1,
+      "8\\sqrt{10}": 1,
+      "\\frac{2}{15}\\left[11 \\cdot 11 \\cdot \\sqrt{242} + 45\\sin^{-1}\\left(\\frac{11}{\\sqrt{242}}\\right) - 1215\\sqrt{2} + \\frac{45\\pi}{4}\\right]": 1,
+      "18\\sqrt{10}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 2
+  },
+  "117": {
+    "correct_answer": "\\sqrt{66}",
+    "answer_candidates": {
+      "7": 2,
+      "15": 1,
+      "\\frac{2x\\sqrt{2}}{3}": 1,
+      "-20": 1,
+      "3": 2,
+      "\\frac{19}{3}": 1,
+      "7.6": 3,
+      "8": 1,
+      "1": 1,
+      "11": 1,
+      "9\\sqrt{2}": 1,
+      "5.5": 1,
+      "6": 1,
+      "5": 1,
+      "4": 1
+    },
+    "selected_answer": "7.6",
+    "selected_answer_count": 3
+  },
+  "38": {
+    "correct_answer": "\\frac{1}{5}",
+    "answer_candidates": {
+      "-8": 1,
+      "\\frac{35 - 16\\sqrt{5}}{25}": 1,
+      "\\frac{35875000 + 8625000\\sqrt{5}}{256}": 1,
+      "\\frac{32 - 16\\sqrt{5}}{11}": 1,
+      "-\\frac{8}{3}": 1,
+      "\\frac{9(100\\sqrt{5} - 50 + 10\\sqrt{8\\sqrt{5} - 4})}{16}": 1,
+      "\\frac{72900 \\pm 25920 \\sqrt{5} \\pm 6480 \\sqrt{1 + \\sqrt{5}}}{14641}": 1,
+      "\\frac{745455 + 57845\\sqrt{5}}{423300}": 1,
+      "\\frac{158 - 70\\sqrt{5}}{195}": 1,
+      "\\frac{-24\\sqrt{5} + 780}{10000}": 1,
+      "\\frac{8}{5 + \\sqrt{5}} \\cdot \\tan^2 3 \\theta": 1,
+      "\\infty": 1,
+      "\\frac{-30 + 12\\sqrt{5}}{8}": 1,
+      "61": 1,
+      "\\frac{1100 - 600\\sqrt{5}}{256}": 1,
+      "\\frac{3(7 + 3 \\sqrt{5})}{-16(376 + 80 \\sqrt{5})}": 1,
+      "\\sqrt{\\frac{5759 - 960\\sqrt{50} + 120\\sqrt{10} - 40\\sqrt{5}}{9}}": 1
+    },
+    "selected_answer": "-8",
+    "selected_answer_count": 1
+  },
+  "4": {
+    "correct_answer": "-1",
+    "answer_candidates": {
+      "-1": 3,
+      "\\frac{38}{13}": 1,
+      "-\\frac{407}{169}": 1,
+      "-116": 1,
+      "-89": 1,
+      "\\frac{36}{41}": 1,
+      "\\frac{47}{169}": 1,
+      "\\frac{263}{169}": 1,
+      "-149": 1,
+      "0": 1,
+      "\\frac{-100}{676}": 1,
+      "-536": 1,
+      "-20": 1,
+      "-26": 1,
+      "\\frac{119}{169}": 2,
+      "-51": 1,
+      "-3": 1
+    },
+    "selected_answer": "-1",
+    "selected_answer_count": 3
+  },
+  "80": {
+    "correct_answer": "20x + 23y + 26z - 69 = 0",
+    "answer_candidates": {
+      "x - 1 = 0": 1,
+      "x - 3y + 2z - 2 = 0": 1,
+      "15x + 15y - 7z - 23 = 0": 1,
+      "x - 2y - z + 2 = 0": 1,
+      "-x - 2y + z + 2 = 0": 1,
+      "-6x + 6y - 6z - 6 = 0": 1,
+      "x+2y-z-2=0": 1,
+      "-x + 2y - z = 0": 2,
+      "x - z = 0": 1,
+      "x-2y+z-2=0": 1,
+      "0x + 2y + 1z - 2 = 0": 1,
+      "x + y + z - 6 = 0": 1,
+      "x-2y+z = 0": 1,
+      "x - 2y + z = 0": 1,
+      "x - 2y + z - 2 = 0": 1,
+      "-3x - y - 3z + 8 = 0": 1,
+      "-x + 2y + z - 2 = 0": 2,
+      "-x + y - z + 2 = 0": 1
+    },
+    "selected_answer": "-x + 2y - z = 0",
+    "selected_answer_count": 2
+  },
+  "79": {
+    "correct_answer": "32R^2 - 3(a^2 + b^2 + c^2)",
+    "answer_candidates": {
+      "-9R^2": 1,
+      "8R^2": 1,
+      "0": 2,
+      "R^2": 1,
+      "a^2 + b^2 + c^2": 1,
+      "x": 1,
+      "c - a + \\frac{x + y}{2c}": 1,
+      "2": 1,
+      "8R^2 - 8R^2 \\cos^2 C": 1,
+      "R": 1,
+      "\\frac{c^3}{2R^2}": 1,
+      "-\\frac{2a^2}{b^2} z^2 + \\frac{a^2}{c^2} \\left( c^2 - z^2 \\right) - 3z^2": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 2
+  },
+  "121": {
+    "correct_answer": "\\frac{3}{4}, -\\frac{3}{4}",
+    "answer_candidates": {
+      "\\frac{2\\sqrt{8}}{9}, \\frac{-2\\sqrt{8}}{9}": 1,
+      "1": 3,
+      "2, -2": 1,
+      "\\frac{5}{2}, \\frac{21}{2}, \\frac{45}{2}, \\frac{77}{2}, \\ldots": 1,
+      "\\frac{3}{2}, -\\frac{3}{2}": 1,
+      "0, \\pm 2": 1,
+      "-\\frac{\\sqrt{3}}{2}": 1,
+      "\\frac{1}{2}+2n": 1,
+      "-\\frac{3}{4}": 2,
+      "0": 1,
+      "-2, 0, 2": 1,
+      "-\\frac{3}{2}, \\frac{3}{2}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 3
+  },
+  "96": {
+    "correct_answer": "\\begin{pmatrix} 1/50 & 7/50 \\\\ 7/50 & 49/50 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} \\frac{1}{50} & \\frac{7}{50} \\\\ \\frac{7}{50} & \\frac{49}{50} \\end{pmatrix}": 3,
+      "\\begin{pmatrix} 1 & 0 \\\\ 0 & 7 \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} \\frac{1}{50} & \\frac{7}{50} \\\\ \\frac{7}{50} & \\frac{49}{50} \\end{pmatrix}",
+    "selected_answer_count": 3
+  },
+  "55": {
+    "correct_answer": "1",
+    "answer_candidates": {
+      "\\frac{1}{5\\sqrt{5}\\cos \\alpha} + \\frac{\\sin^3 \\beta}{\\sin \\alpha}, -\\frac{1}{5\\sqrt{5}\\cos \\alpha} + \\frac{\\sin^3 \\beta}{\\sin \\alpha}": 1,
+      "\\frac{1}{\\sqrt{2}}, \\frac{3\\sqrt{3} + 1}{4}": 1,
+      "-\\cos \\beta": 1,
+      "1": 2,
+      "0": 2,
+      "-\\frac{1}{2} \\cos (\\beta - \\alpha)": 1,
+      "-1": 4,
+      "\\frac{1}{2}, 0, \\frac{1}{2}": 1,
+      "-\\frac{1}{2}": 1,
+      "\\frac{\\sin^2 \\beta}{2\\cos \\beta}, \\frac{\\sin^4 \\beta}{2\\sin^2 \\beta - 1}": 1
+    },
+    "selected_answer": "-1",
+    "selected_answer_count": 4
+  },
+  "14": {
+    "correct_answer": "116 - 75i",
+    "answer_candidates": {
+      "-\\frac{95}{3}+\\frac{5}{3}i": 1,
+      "4zw + 20w - 12z - 60": 1,
+      "\\frac{33840 - 80\\sqrt{30640}}{169}": 1,
+      "\\pm124i\\sqrt{30}\\mp480": 1,
+      "92.5": 1,
+      "6": 1,
+      "9": 1,
+      "-159": 1,
+      "\\text{undefined}": 2,
+      "64": 1,
+      "12\\sqrt{30}": 1,
+      "-10\\sqrt{185} + 25 - 27\\sqrt{185}i": 1,
+      "0 - 16i": 1,
+      "\\frac{141261}{125464}": 1,
+      "10 + 10i": 1
+    },
+    "selected_answer": "\\text{undefined}",
+    "selected_answer_count": 2
+  },
+  "43": {
+    "correct_answer": "(2,-1)",
+    "answer_candidates": {
+      "\\left(-\\frac{2}{\\mathbf{v}^T \\mathbf{v}}, 1\\right)": 1,
+      "(-2,1)": 6,
+      "(0,1), (-2,1), (0,-1), (2,-1)": 1,
+      "(2,-1)": 1,
+      "\\left(-\\frac{2}{\\|\\mathbf{v}\\|^2}, 1\\right)": 3,
+      "(1,0)": 1,
+      "(0,1), (0,-1), (-2,1), (2,-1)": 1,
+      "(0,1)": 1,
+      "(-1,2)": 1,
+      "\\left(\\frac{2}{\\|\\mathbf{v}\\|^2}, -1\\right)": 1,
+      "(2, 1)": 1,
+      "\\text{no solution}": 1
+    },
+    "selected_answer": "(-2,1)",
+    "selected_answer_count": 6
+  },
+  "42": {
+    "correct_answer": "87.5",
+    "answer_candidates": {
+      "1": 1,
+      "5": 3,
+      "\\frac{1}{360}": 1,
+      "45": 2,
+      "10.424": 1,
+      "\\frac{225}{5}": 1,
+      "180^\\circ": 1,
+      "\\frac{71.5651}{1}": 1,
+      "90": 3,
+      "0": 3,
+      "180": 1,
+      "160.26": 1,
+      "5 + \\frac{\\pi}{4}": 1
+    },
+    "selected_answer": "5",
+    "selected_answer_count": 3
+  },
+  "15": {
+    "correct_answer": "\\begin{pmatrix} 23/8 \\\\ 7/4 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} 7 \\\\ 2 \\end{pmatrix}": 1,
+      "\\mathbf{c} = \\begin{pmatrix} -2 \\\\ 5 \\end{pmatrix}": 1,
+      "3": 1,
+      "\\begin{pmatrix} 2 \\\\ -5 \\end{pmatrix}": 2,
+      "0": 1,
+      "\\begin{pmatrix} \\frac{13}{10} \\\\ -\\frac{13}{30} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -\\frac{14 \\sqrt{29}}{13 \\sqrt{10}} \\\\ \\frac{35 \\sqrt{29}}{13 \\sqrt{10}} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -1 \\\\ \\frac{5}{2} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -\\frac{1}{5} \\\\ \\frac{13}{5} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{406}{21} \\\\ -\\frac{1015}{21} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -\\frac{3}{8} \\\\ \\frac{15}{16} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -\\frac{26}{15} \\\\ \\frac{65}{15} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{13}{10} \\\\ \\frac{39}{10} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{26}{7} \\\\ -\\frac{65}{7} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -2 \\\\ 5 \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 2 \\\\ -5 \\end{pmatrix}",
+    "selected_answer_count": 2
+  },
+  "54": {
+    "correct_answer": "\\begin{pmatrix} -4\\\\-3 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} 4\\\\3\\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -8 \\end{pmatrix}": 1,
+      "(-48, -6)": 1,
+      "\\begin{pmatrix}-5 \\\\ -2 \\end{pmatrix}": 1,
+      "\\begin{pmatrix}-20\\\\-15\\end{pmatrix}": 1,
+      "\\begin{pmatrix} 6 \\\\ -13 \\end{pmatrix}": 1,
+      "\\left(-\\frac{7}{2}, -\\frac{7}{2}\\right)": 1,
+      "\\left(-\\frac{27}{11}, \\frac{1}{11}\\right)": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 4\\\\3\\end{pmatrix}",
+    "selected_answer_count": 1
+  },
+  "78": {
+    "correct_answer": "43",
+    "answer_candidates": {
+      "13": 3,
+      "0": 3,
+      "325": 1,
+      "\\frac{65}{2}": 1,
+      "36k": 1,
+      "52": 1,
+      "26": 1,
+      "138": 1,
+      "1": 1,
+      "78": 1
+    },
+    "selected_answer": "13",
+    "selected_answer_count": 3
+  },
+  "120": {
+    "correct_answer": "-8",
+    "answer_candidates": {
+      "\\frac{15}{\\sqrt{6}}": 1,
+      "3 \\sqrt{7}": 1,
+      "0": 10,
+      "-9": 1,
+      "-6": 1,
+      "\\mathbf{OA} \\cdot \\mathbf{AB}": 1,
+      "\\frac{27}{2}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 10
+  },
+  "97": {
+    "correct_answer": "3 \\pm 2 \\sqrt{2}",
+    "answer_candidates": {
+      "x = \\pm \\frac{i\\sqrt{\\sqrt{6}}}{2}": 1,
+      "no solutions": 2,
+      "\\sin^{-1}\\left(\\frac{1}{3}\\right), \\sin^{-1}\\left(\\frac{1}{3}\\right), \\sin^{-1}\\left(\\frac{1}{3}\\right)": 1,
+      "0.533": 1,
+      "\\frac{2\\sqrt{2}}{3}i, -\\frac{2\\sqrt{2}}{3}i": 1,
+      "1,2": 1,
+      "-8 + 4\\sqrt{2}, -8 - 4\\sqrt{2}": 1,
+      "1, 2": 1,
+      "x = 1, -1, 1, -1, -\\sqrt{3}, \\sqrt{3}": 1,
+      "-\\frac{\\sqrt{3}}{3}, \\sqrt{3}": 1,
+      "\\text{No solution}": 1,
+      "3 + 2\\sqrt{2}, 3 - 2\\sqrt{2}": 1
+    },
+    "selected_answer": "no solutions",
+    "selected_answer_count": 2
+  },
+  "81": {
+    "correct_answer": "\\left( \\frac{4}{3}, -\\frac{1}{3} \\right)",
+    "answer_candidates": {
+      "\\left(\\frac{4}{5}, \\frac{1}{5}\\right)": 3,
+      "(0,u)": 1,
+      "(1,0.2)": 1,
+      "(4, -3)": 1,
+      "(1,u)": 1,
+      "\\left(\\frac{1}{5}, \\frac{4}{5}\\right)": 6,
+      "\\left(\\frac{3}{5}, \\frac{4}{5}\\right)": 1,
+      "\\left(\\frac{1}{3}, \\frac{2}{3}\\right)": 1,
+      "\\left(\\frac{1}{4}, 1\\right)": 1,
+      "(0,0)": 1,
+      "(1,1)": 1,
+      "\\left(0, \\frac{1}{2}\\right)": 1
+    },
+    "selected_answer": "\\left(\\frac{1}{5}, \\frac{4}{5}\\right)",
+    "selected_answer_count": 6
+  },
+  "5": {
+    "correct_answer": "5",
+    "answer_candidates": {
+      "\\frac{648 + 15 \\sqrt{5}}{11 + 5\\sqrt{5}}": 1,
+      "\\frac{188 - 20 \\sqrt{5}}{19}": 1,
+      "\\frac{31788 - 13360 \\sqrt{5}}{257049}": 1,
+      "\\frac{690 + 10 \\sqrt{5}}{5 - \\sqrt{5}}": 1,
+      "87 \\sqrt{5} - 590": 1,
+      "\\frac{18 - 25 \\sqrt{5}}{178}": 1,
+      "-\\frac{124}{35}": 1,
+      "-58 - 100\\sqrt{5}": 1,
+      "\\frac{-324 + 39 \\sqrt{5}}{69}": 1,
+      "\u2212\\dfrac{43}{4}": 1,
+      "\\frac{2 + \\sqrt{5}}{19}": 1,
+      "\\frac{68 \\sqrt{5} + 93}{-45}": 1,
+      "\\frac{\\sqrt{5}}{24}": 1,
+      "-423": 1,
+      "-5 \\sqrt{5} - \\frac{13}{5}": 1,
+      "\\frac{134 - 73\\sqrt{5}}{393}": 1,
+      "-\\frac{9}{2}": 1
+    },
+    "selected_answer": "\\frac{648 + 15 \\sqrt{5}}{11 + 5\\sqrt{5}}",
+    "selected_answer_count": 1
+  },
+  "39": {
+    "correct_answer": "4018",
+    "answer_candidates": {
+      "-1": 1,
+      "670": 1,
+      "\\frac{1}{2}": 1,
+      "\\omega + 3": 1,
+      "0": 4,
+      "3": 1,
+      "334": 1,
+      "-\\frac{5}{2} - \\sqrt{3}": 1,
+      "2": 1,
+      "\\omega^3(\\omega + 1)": 1,
+      "-10 - 7\\omega - 7\\omega^2": 1,
+      "-3\\omega^2 - 5\\omega": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "116": {
+    "correct_answer": "\\frac{4036082}{4036081}",
+    "answer_candidates": {
+      "\\frac{1}{2} - \\frac{x}{2} + iy": 1,
+      "-3": 1,
+      "1 + i\\sin(\\log(4036081)i) + \\cos(\\log(4036081)i)": 1,
+      "0": 1,
+      "2": 1,
+      "1": 1,
+      "2x + iy": 1,
+      "\\frac{8062179^2 - 1}{2 \\cdot 4036081}": 1,
+      "2020202": 1,
+      "2009^2+1": 1,
+      "-1005i": 1,
+      "1-i": 1,
+      "4036083 - \\frac{1}{8072162}": 1,
+      "2018043": 1,
+      "1.152 + 0.952i": 1,
+      "1 + i\\sinh(\\log(4036081))": 1,
+      "\\frac{1}{2}(1 + \\cos(\\log(2009))^2) + i\\sin(\\ln(4036081))": 1
+    },
+    "selected_answer": "\\frac{1}{2} - \\frac{x}{2} + iy",
+    "selected_answer_count": 1
+  },
+  "19": {
+    "correct_answer": "\\frac{4}{3}",
+    "answer_candidates": {
+      "-\\frac{24}{7}": 3,
+      "-\\frac{7}{24}": 1,
+      "\\frac{18}{25}": 1,
+      "\\tan\\left(2\\arccos\\left(-\\frac{7}{25}\\right)\\right)": 1,
+      "\\frac{4}{3}": 3,
+      "\\pm 1": 1,
+      "0": 1,
+      "\\frac{3}{4}": 1,
+      "\\text{undefined}": 1,
+      "\\frac{33}{43}": 1,
+      "1 \\text{ or } -1": 1,
+      "\\frac{24}{7}": 1,
+      "1": 1
+    },
+    "selected_answer": "-\\frac{24}{7}",
+    "selected_answer_count": 3
+  },
+  "58": {
+    "correct_answer": "y = 2x + 3",
+    "answer_candidates": {
+      "y = 2x - 15": 1,
+      "y = 7x + 1": 1,
+      "y = \\frac{1}{2} x + 1": 1,
+      "4x + 1": 1,
+      "y = 5x + 2": 1,
+      "y = 9x - 2": 1,
+      "y = \\frac{34}{7}x + \\frac{11}{7}": 1,
+      "\\frac{8}{5}x": 1,
+      "-2x - 1": 1,
+      "-7": 1,
+      "y = 4x - 2": 1,
+      "y = \\frac{5}{2}x": 1,
+      "x + y = 0": 1,
+      "9x + 3": 1,
+      "y = 5x - 2": 1,
+      "y = 2x + 1": 1,
+      "15x + 4 = y": 1
+    },
+    "selected_answer": "y = 2x - 15",
+    "selected_answer_count": 1
+  },
+  "100": {
+    "correct_answer": "9",
+    "answer_candidates": {
+      "4\\sqrt{6} + 4": 1,
+      "\\infty": 1,
+      "765": 1,
+      "0": 5,
+      "-0.3725": 1,
+      "2.174": 1,
+      "4.905": 1,
+      "5": 1,
+      "\\frac{-24 + 17\\sqrt{3}}{3}": 1,
+      "9": 1,
+      "1530": 1,
+      "4": 2,
+      "-\\frac{27}{2}": 1,
+      "9 \\cdot \\tan 5^\\circ": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 5
+  },
+  "23": {
+    "correct_answer": "\\begin{pmatrix} -5/13 \\\\ 12/13 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} 7 \\\\ -\\frac{84}{5} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -\\frac{12}{5} \\end{pmatrix}": 2,
+      "\\begin{pmatrix} -\\frac{12}{5} \\\\ 1 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} -12 \\\\ -5 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -\\frac{64}{5} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ \\frac{-12}{5} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -12 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{33}{5} \\\\ \\frac{-52}{5} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 5 \\\\ -12 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 7 - x \\\\ -2 - y \\end{pmatrix}": 1,
+      "\\begin{pmatrix} a - 7 \\\\ \\frac{-12a + 84}{5} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{31}{6} \\\\ -1 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 1 \\\\ -12/5 \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 1 \\\\ -\\frac{12}{5} \\end{pmatrix}",
+    "selected_answer_count": 2
+  },
+  "74": {
+    "correct_answer": "2, -1",
+    "answer_candidates": {
+      "2": 4,
+      "0,-2": 1,
+      "\\{2a \\mid a \\in \\mathbb{R}\\}": 1,
+      "\\text{any real number}": 1,
+      "-\\frac{5}{2}": 1,
+      "-1,1": 1,
+      "0, 1": 1,
+      "0": 3,
+      "-1, 0, 2": 1,
+      "-1, 0, 1": 1,
+      "(-\\infty, \\infty) - \\{0\\}": 1
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 4
+  },
+  "62": {
+    "correct_answer": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}",
+    "answer_candidates": {
+      "\\begin{pmatrix} 5 \\\\ -3 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 3 \\\\ 6 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} -\\frac{2}{5} \\\\ 3 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 11 \\\\ -3 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -2 \\\\ -3 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} -\\frac{23}{4} \\\\ \\frac{5}{12} \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} -3 \\\\ 6 \\end{pmatrix}": 2,
+      "\\begin{pmatrix} 12 \\\\ -3 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 0 \\\\ 11 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} 5/6 \\\\ 0 \\end{pmatrix}": 1,
+      "\\begin{pmatrix} \\frac{9}{2} \\\\ \\frac{3}{2} \\end{pmatrix}": 1
+    },
+    "selected_answer": "\\begin{pmatrix} 3 \\\\ 6 \\end{pmatrix}",
+    "selected_answer_count": 2
+  },
+  "9": {
+    "correct_answer": "50^\\circ",
+    "answer_candidates": {
+      "45": 1,
+      "354": 1,
+      "45^{\\circ}": 1,
+      "2000": 1,
+      "1": 1,
+      "70": 1,
+      "210.5^\\circ": 1,
+      "190^{\\circ}": 1,
+      "90": 1,
+      "200^{\\circ}": 1,
+      "380": 1,
+      "205": 1,
+      "160^{\\circ}": 1,
+      "210^\\circ": 1,
+      "120^{\\circ}": 1,
+      "30": 1
+    },
+    "selected_answer": "45",
+    "selected_answer_count": 1
+  },
+  "35": {
+    "correct_answer": "432",
+    "answer_candidates": {
+      "-1728": 1,
+      "1": 1,
+      "1728": 1,
+      "0": 5,
+      "1296": 1,
+      "\\frac{1}{2}": 1,
+      "-1": 1,
+      "-1728S": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 5
+  }
+}

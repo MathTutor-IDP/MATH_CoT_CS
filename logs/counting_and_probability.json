@@ -1,0 +1,2356 @@
+{
+  "correct_count": 22,
+  "wrong_count": 101,
+  "question_count": 123,
+  "115": {
+    "correct_answer": "35",
+    "answer_candidates": {
+      "334": 1,
+      "1": 2,
+      "24": 2,
+      "85": 1,
+      "21": 1,
+      "4": 1,
+      "2": 1,
+      "400": 1,
+      "93": 1,
+      "110": 1,
+      "6": 2,
+      "11": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 2
+  },
+  "103": {
+    "correct_answer": "\\frac{12}{5,\\!525}",
+    "answer_candidates": {
+      "\\frac{2}{17}": 1,
+      "\\frac{48}{22100}": 1,
+      "\\frac{40}{17 \\cdot 13 \\cdot 5}": 1,
+      "\\dfrac{1}{850}": 1,
+      "\\frac{2560}{1105}": 1,
+      "\\frac{8}{847}": 1,
+      "\\frac{66}{85}": 1,
+      "\\frac{3}{50}": 1,
+      "\\frac{4}{850}": 1,
+      "\\frac{6}{1,105}": 1,
+      "\\frac{39}{5525}": 1,
+      "\\frac{1}{500}": 2,
+      "\\frac{1}{22100}": 1,
+      "\\dfrac{8}{5525}": 1,
+      "\\frac{78}{11050}": 1,
+      "\\dfrac{4}{1,000}": 1
+    },
+    "selected_answer": "\\frac{1}{500}",
+    "selected_answer_count": 2
+  },
+  "20": {
+    "correct_answer": "\\frac{1}{12}",
+    "answer_candidates": {
+      "\\frac{1}{120}": 2,
+      "\\frac{1}{12}": 3,
+      "0.03": 1,
+      "\\frac{9}{5}": 1,
+      "1": 1,
+      "\\frac{3}{5}": 1,
+      "\\frac{1}{40}": 1,
+      "6": 2,
+      "\\dfrac{1}{5}": 1,
+      "\\dfrac{1}{12}": 1,
+      "\\frac{1}{60}": 1,
+      "\\dfrac{1}{120}": 1,
+      "\\frac{1}{8}": 1,
+      "\\frac{1}{80}": 1,
+      "\\frac{9}{20}": 1
+    },
+    "selected_answer": "\\frac{1}{12}",
+    "selected_answer_count": 3
+  },
+  "98": {
+    "correct_answer": "-\\frac{1}{16}",
+    "answer_candidates": {
+      "-\\frac{5}{16}": 1,
+      "-\\frac{1}{8}": 1,
+      "\\frac{7}{16}": 1,
+      "\\frac{\\$2}{3}": 1,
+      "-\\frac{3}{16}": 1,
+      "\\frac{1}{8}": 1,
+      "\\frac{1}{16}": 1,
+      "-\\frac{7}{16}": 2,
+      "\\frac{1}{3}": 1,
+      "-\\frac{1}{4}": 2,
+      "\\frac{1}{4}": 1,
+      "\\frac{9}{16}": 1,
+      "\\frac{9}{8}": 1,
+      "\\frac{3}{16}": 1,
+      "-\\frac{2}{16}": 1
+    },
+    "selected_answer": "-\\frac{7}{16}",
+    "selected_answer_count": 2
+  },
+  "77": {
+    "correct_answer": "\\frac{3}{4}",
+    "answer_candidates": {
+      "\\frac{9}{16}": 1,
+      "\\frac{7}{16}": 4,
+      "\\frac{5}{64}": 1,
+      "1": 1,
+      "\\frac{41}{64}": 1,
+      "\\frac{5}{32}": 1,
+      "\\frac{23}{64}": 1,
+      "\\frac{63}{64}": 1,
+      "\\frac{9}{32}": 2,
+      "\\frac{39}{64}": 1,
+      "\\frac{13}{32}": 1,
+      "\\frac{5}{8}": 1,
+      "\\frac{27}{64}": 1,
+      "\\frac{21}{64}": 1,
+      "\\frac{29}{64}": 1,
+      "\\frac{33}{64}": 1
+    },
+    "selected_answer": "\\frac{7}{16}",
+    "selected_answer_count": 4
+  },
+  "61": {
+    "correct_answer": "14",
+    "answer_candidates": {
+      "66": 13,
+      "36": 1,
+      "11": 1,
+      "\\dfrac{3^{10}}{(10!)^3}": 1
+    },
+    "selected_answer": "66",
+    "selected_answer_count": 13
+  },
+  "36": {
+    "correct_answer": "\\frac{9}{32}",
+    "answer_candidates": {
+      "\\frac{23}{80}": 2,
+      "\\frac{10125}{36000}": 6,
+      "\\frac{473}{720}": 1,
+      "\\frac{127}{900}": 1,
+      "\\frac{9}{32}": 2,
+      "\\frac{1}{30}": 1,
+      "1": 1,
+      "\\frac{45}{160}": 3,
+      "\\frac{10125}{36}": 1,
+      "\\frac{101}{360}": 1,
+      "\\frac{3}{4}": 1
+    },
+    "selected_answer": "\\frac{10125}{36000}",
+    "selected_answer_count": 6
+  },
+  "119": {
+    "correct_answer": "\\dfrac{7}{20}",
+    "answer_candidates": {
+      "\\frac{3}{20}": 2,
+      "\\frac{1}{5}": 8,
+      "\\frac{1}{120}": 1,
+      "\\frac{3}{80}": 1,
+      "\\frac{1}{20}": 1,
+      "\\frac{1}{24}": 1,
+      "\\frac{1}{15}": 1,
+      "\\frac{1}{2}": 1
+    },
+    "selected_answer": "\\frac{1}{5}",
+    "selected_answer_count": 8
+  },
+  "41": {
+    "correct_answer": "\\frac{781}{1024}",
+    "answer_candidates": {
+      "\\frac{781}{1024}": 8,
+      "\\frac{3367}{4096}": 1,
+      "1-\\left(\\frac{3}{4}\\right)^6": 1,
+      "1-\\left(\\frac{3}{4}\\right)^5": 1,
+      "0.8821": 1
+    },
+    "selected_answer": "\\frac{781}{1024}",
+    "selected_answer_count": 8
+  },
+  "16": {
+    "correct_answer": "\\dfrac{49}{54}",
+    "answer_candidates": {
+      "\\frac{49}{54}": 5,
+      "\\frac{7}{9}": 1,
+      "\\frac{5}{6}": 1,
+      "\\frac{7770}{7776}": 1,
+      "\\frac{71}{72}": 1,
+      "\\frac{107}{108}": 1,
+      "1 - \\frac{40}{6^5}": 1,
+      "\\frac{1277}{1296}": 1,
+      "\\frac{784}{864}": 1
+    },
+    "selected_answer": "\\frac{49}{54}",
+    "selected_answer_count": 5
+  },
+  "57": {
+    "correct_answer": "\\frac{73}{100}",
+    "answer_candidates": {
+      "\\frac{14}{25}": 2,
+      "\\frac{3}{25}": 1,
+      "\\frac{7}{20}": 2,
+      "\\frac{91}{100}": 1,
+      "\\frac{9}{10}": 2,
+      "\\frac{87}{20}": 1,
+      "\\frac{1}{10}": 1,
+      "\\frac{31}{100}": 1,
+      "\\frac{71}{100}": 1,
+      "0": 1,
+      "\\frac{49}{100}": 2,
+      "\\frac{6}{25}": 1,
+      "\\frac{69}{100}": 1,
+      "\\frac{93}{100}": 1,
+      "\\frac{81}{100}": 1,
+      "\\frac{9}{100}": 1
+    },
+    "selected_answer": "\\frac{14}{25}",
+    "selected_answer_count": 2
+  },
+  "94": {
+    "correct_answer": "\\frac{11}{32}",
+    "answer_candidates": {
+      "\\frac{1}{6}": 2,
+      "\\frac{1}{2}": 2,
+      "\\frac{1}{16}": 1,
+      "\\frac{3}{64}": 1,
+      "\\frac{1}{32}": 4,
+      "1": 1,
+      "\\frac{23}{64}": 1,
+      "\\frac{1}{64}": 1,
+      "\\frac{5}{16}": 3,
+      "\\frac{1}{192}": 1,
+      "\\frac{7}{32}": 1,
+      "3.625\\%": 1
+    },
+    "selected_answer": "\\frac{1}{32}",
+    "selected_answer_count": 4
+  },
+  "82": {
+    "correct_answer": "\\frac{35}{128}",
+    "answer_candidates": {
+      "\\frac{1}{256}": 7,
+      "\\frac{1}{16}": 3,
+      "\\frac{1}{2}": 2,
+      "\\frac{1}{64}": 1,
+      "\\frac{1}{8}": 1,
+      "\\frac{1}{128}": 1,
+      "\\frac{35}{128}": 1,
+      "\\frac{5}{16}": 2
+    },
+    "selected_answer": "\\frac{1}{256}",
+    "selected_answer_count": 7
+  },
+  "6": {
+    "correct_answer": "96",
+    "answer_candidates": {
+      "11": 1,
+      "6": 1,
+      "10": 2,
+      "5": 2,
+      "3": 2,
+      "4": 2,
+      "9": 3,
+      "7": 1,
+      "18": 1,
+      "13": 2,
+      "44": 1,
+      "8": 1
+    },
+    "selected_answer": "9",
+    "selected_answer_count": 3
+  },
+  "7": {
+    "correct_answer": "\\frac{1}{10}",
+    "answer_candidates": {
+      "\\frac{5}{12}": 1,
+      "\\frac{1}{30}": 1,
+      "\\frac{1}{960}": 1,
+      "\\frac{3}{5}": 1,
+      "0": 3,
+      "\\frac{11}{30}": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{1}{60}": 4,
+      "\\frac{8}{60}": 1,
+      "\\frac{1}{4}": 1,
+      "\\frac{1}{20}": 2,
+      "\\frac{1}{2}": 1,
+      "\\frac{10}{1}": 1
+    },
+    "selected_answer": "\\frac{1}{60}",
+    "selected_answer_count": 4
+  },
+  "83": {
+    "correct_answer": "200",
+    "answer_candidates": {
+      "64": 1,
+      "400": 1,
+      "200": 10,
+      "240": 1,
+      "17": 1,
+      "140": 1,
+      "210": 1,
+      "20": 1,
+      "350": 1,
+      "40": 1
+    },
+    "selected_answer": "200",
+    "selected_answer_count": 10
+  },
+  "95": {
+    "correct_answer": "\\dfrac{72}{425}",
+    "answer_candidates": {
+      "\\frac{1872}{1445}": 1,
+      "\\frac{156}{85}": 1,
+      "1.082": 1,
+      "\\frac{39}{221}": 1,
+      "\\frac{26}{221}": 1,
+      "\\frac{6}{17}": 1,
+      "\\frac{336}{1,970}": 1,
+      "\\frac{2}{8505}": 1,
+      "\\frac{1}{221}": 1,
+      "\\frac{156}{221}": 1,
+      "\\frac{3}{85}": 1,
+      "\\frac{168}{989}": 1,
+      "0.1697": 1
+    },
+    "selected_answer": "\\frac{1872}{1445}",
+    "selected_answer_count": 1
+  },
+  "122": {
+    "correct_answer": "\\frac{3}{4}",
+    "answer_candidates": {
+      "\\frac{1}{4}": 2,
+      "\\frac{5}{12}": 1,
+      "\\frac{3}{4}": 2,
+      "\\frac{1}{2}": 6,
+      "\\frac{2}{5}": 1,
+      "\\frac{1}{8}": 2,
+      "\\frac{4}{9}": 1,
+      "\\frac{3}{8}": 1,
+      "1": 1,
+      "\\frac{1}{6}": 1
+    },
+    "selected_answer": "\\frac{1}{2}",
+    "selected_answer_count": 6
+  },
+  "56": {
+    "correct_answer": "960",
+    "answer_candidates": {
+      "1200": 1,
+      "207,360": 1,
+      "240": 1,
+      "774": 1,
+      "1008": 1,
+      "43200": 1,
+      "48": 1,
+      "116": 1,
+      "960": 1,
+      "144": 1,
+      "4800": 1,
+      "720": 1,
+      "2880": 1,
+      "\\frac{1}{7}": 1,
+      "1440": 1,
+      "1428": 1,
+      "5040": 1,
+      "480": 1
+    },
+    "selected_answer": "1200",
+    "selected_answer_count": 1
+  },
+  "17": {
+    "correct_answer": "7",
+    "answer_candidates": {
+      "2": 4,
+      "1": 2,
+      "0": 1,
+      "4": 3,
+      "3": 2,
+      "14": 2,
+      "6": 1,
+      "10": 1,
+      "5": 1,
+      "9": 2,
+      "7": 1
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 4
+  },
+  "118": {
+    "correct_answer": "\\frac{9}{32}",
+    "answer_candidates": {
+      "\\frac 14": 1,
+      "\\frac{3}{4}": 7,
+      "\\frac{9}{32}": 1,
+      "\\frac{1}{4}": 2,
+      "\\frac 34": 2,
+      "\\frac{\\infty}{\\infty}": 1,
+      "\\frac{3}{4} - x": 1,
+      "1": 1,
+      "\\frac{3}{8}": 2,
+      "\\frac{2}{1}": 1,
+      "\\frac{1}{2}": 1
+    },
+    "selected_answer": "\\frac{3}{4}",
+    "selected_answer_count": 7
+  },
+  "40": {
+    "correct_answer": "\\frac{3}{16}",
+    "answer_candidates": {
+      "\\frac{1}{32}": 14,
+      "\\frac{243}{32}": 1,
+      "\\frac{1}{1}": 1,
+      "1": 2,
+      "\\frac{1}{2}": 1,
+      "\\frac{5}{2}": 1
+    },
+    "selected_answer": "\\frac{1}{32}",
+    "selected_answer_count": 14
+  },
+  "37": {
+    "correct_answer": "50",
+    "answer_candidates": {
+      "20": 2,
+      "30": 5,
+      "79": 1,
+      "400": 1,
+      "12,650": 1,
+      "12": 1,
+      "120": 1,
+      "10": 1,
+      "37950": 1,
+      "225": 1,
+      "39": 1,
+      "100": 1,
+      "12.5": 1,
+      "55": 1,
+      "12,610": 1
+    },
+    "selected_answer": "30",
+    "selected_answer_count": 5
+  },
+  "60": {
+    "correct_answer": "4",
+    "answer_candidates": {
+      "7": 3,
+      "15": 2,
+      "4": 3,
+      "6": 1,
+      "8": 2,
+      "9": 1,
+      "5": 1,
+      "22": 1,
+      "11": 1,
+      "10": 1,
+      "35": 1,
+      "14": 1
+    },
+    "selected_answer": "7",
+    "selected_answer_count": 3
+  },
+  "99": {
+    "correct_answer": "\\frac{13}{90}",
+    "answer_candidates": {
+      "\\frac{9}{65}": 4,
+      "\\frac{1}{52}": 1,
+      "\\frac{21}{260}": 1,
+      "\\frac{5}{48}": 1,
+      "\\frac{41}{30}": 1,
+      "\\frac{17}{180}": 1,
+      "\\frac{32}{45}": 1,
+      "\\frac{3}{20}": 1,
+      "0.138": 1,
+      "\\frac{39}{260}": 1,
+      "\\frac{1}{10}": 1,
+      "1": 1,
+      "\\frac{5}{179}": 1
+    },
+    "selected_answer": "\\frac{9}{65}",
+    "selected_answer_count": 4
+  },
+  "76": {
+    "correct_answer": "8.5",
+    "answer_candidates": {
+      "8.5": 12,
+      "7.5": 2,
+      "10.5": 3,
+      "9.6": 1
+    },
+    "selected_answer": "8.5",
+    "selected_answer_count": 12
+  },
+  "21": {
+    "correct_answer": "\\$15.48",
+    "answer_candidates": {
+      "\\$11.29": 1,
+      "6.83": 1,
+      "10.15": 1,
+      "\\$15.33": 1,
+      "5.40": 1,
+      "\\$0.80": 1,
+      "17.62": 1,
+      "200.85": 1,
+      "6.73": 1,
+      "22.46": 1,
+      "-\\$1.74": 1,
+      "-2.71": 1,
+      "1.15": 1,
+      "9.35": 1,
+      "4.85": 1,
+      "\\$6.54": 1,
+      "1": 1,
+      "13.79": 1,
+      "0.54": 1
+    },
+    "selected_answer": "\\$11.29",
+    "selected_answer_count": 1
+  },
+  "102": {
+    "correct_answer": "\\frac{23}{36}",
+    "answer_candidates": {
+      "\\frac{23}{36}": 2,
+      "\\frac{5}{6}": 5,
+      "1": 1,
+      "\\frac{3}{1}": 1,
+      "\\frac{5}{12}": 2,
+      "\\frac{29}{36}": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{2}{9}": 1,
+      "\\dfrac{5}{6}": 1,
+      "\\frac{7}{9}": 1,
+      "\\frac{1}{6}": 1,
+      "\\frac{7}{12}": 1,
+      "\\frac{2}{3}": 1
+    },
+    "selected_answer": "\\frac{5}{6}",
+    "selected_answer_count": 5
+  },
+  "114": {
+    "correct_answer": "\\frac{52}{3}",
+    "answer_candidates": {
+      "\\frac{53}{2}": 1,
+      "51": 1,
+      "\\frac{344}{9}": 1,
+      "\\frac{689}{27}": 1,
+      "715": 1,
+      "51.5": 1,
+      "\\frac{261}{5}": 1,
+      "52": 1,
+      "\\frac{2652}{2809}": 1,
+      "\\frac{553}{27}": 1,
+      "\\frac{108}{53}": 1,
+      "\\frac{55}{2}": 1,
+      "51.1": 1,
+      "\\frac{2754}{53}": 1,
+      "\\frac{17}{108}": 1,
+      "53": 1,
+      "116": 1,
+      "1": 1,
+      "\\frac{5995}{99}": 1
+    },
+    "selected_answer": "\\frac{53}{2}",
+    "selected_answer_count": 1
+  },
+  "47": {
+    "correct_answer": "\\frac{10}{19}",
+    "answer_candidates": {
+      "\\frac{13}{38}": 1,
+      "\\frac{3}{19}": 1,
+      "\\frac{6}{19}": 1,
+      "\\frac{413}{95}": 1,
+      "0": 2,
+      "\\frac{3}{4}": 1,
+      "\\frac{8}{19}": 1,
+      "\\frac{14}{95}": 1,
+      "\\frac{8}{9}": 1,
+      "1": 1,
+      "\\frac{74}{95}": 1,
+      "\\frac{60}{\\binom{20}{2}}": 1,
+      "\\dfrac{6}{19}": 1,
+      "\\frac{15}{19}": 1,
+      "\\dfrac{4}{9}": 1,
+      "\\frac{3}{38}": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 2
+  },
+  "10": {
+    "correct_answer": "1440",
+    "answer_candidates": {
+      "4320": 2,
+      "90": 1,
+      "720": 4,
+      "600": 1,
+      "151,200": 1,
+      "540": 1,
+      "2880": 1,
+      "0": 1,
+      "144": 3,
+      "5040": 2,
+      "6! \\cdot 3!": 1
+    },
+    "selected_answer": "720",
+    "selected_answer_count": 4
+  },
+  "109": {
+    "correct_answer": "540",
+    "answer_candidates": {
+      "6": 11,
+      "120": 3,
+      "30": 1,
+      "729": 3,
+      "15": 1,
+      "720": 1
+    },
+    "selected_answer": "6",
+    "selected_answer_count": 11
+  },
+  "51": {
+    "correct_answer": "\\frac{27}{512}",
+    "answer_candidates": {
+      "\\frac{3}{64}": 2,
+      "\\frac{5}{8}": 1,
+      "\\frac{3}{16}": 1,
+      "\\frac{3}{32768}": 1,
+      "\\frac{27}{256}": 2,
+      "\\frac{63}{1024}": 1,
+      "\\frac{27}{1024}": 1,
+      "\\frac{9}{64}": 1,
+      "\\frac{2}{3}": 1,
+      "\\frac{3}{128}": 1,
+      "\\frac{27}{512}": 1,
+      "\\frac{81}{128}": 1,
+      "\\frac{9}{128}": 1,
+      "\\frac{3}{4}": 1,
+      "\\frac{27}{128}": 1
+    },
+    "selected_answer": "\\frac{3}{64}",
+    "selected_answer_count": 2
+  },
+  "92": {
+    "correct_answer": "110",
+    "answer_candidates": {
+      "65": 1,
+      "45": 2,
+      "0": 4,
+      "132": 1,
+      "55": 2,
+      "30": 2,
+      "5": 1,
+      "90": 1,
+      "108": 1,
+      "75": 1,
+      "135": 1
+    },
+    "selected_answer": "0",
+    "selected_answer_count": 4
+  },
+  "84": {
+    "correct_answer": "20160",
+    "answer_candidates": {
+      "148,800": 1,
+      "10,080": 1,
+      "362,880": 1,
+      "9,072": 1,
+      "21,\\!600": 1,
+      "90": 1,
+      "78": 1,
+      "907,920": 1,
+      "198": 1,
+      "105": 1,
+      "2.25": 1,
+      "3": 1,
+      "5,760": 1,
+      "5040": 1,
+      "241,920": 1,
+      "3780": 1,
+      "10.75": 1
+    },
+    "selected_answer": "148,800",
+    "selected_answer_count": 1
+  },
+  "0": {
+    "correct_answer": "29",
+    "answer_candidates": {
+      "157": 1,
+      "13": 2,
+      "143": 1,
+      "25": 1,
+      "191": 1,
+      "6": 1,
+      "83": 1,
+      "37": 1,
+      "109": 1,
+      "754": 1,
+      "0": 1,
+      "3": 2,
+      "305": 1,
+      "1199": 1,
+      "71": 1
+    },
+    "selected_answer": "13",
+    "selected_answer_count": 2
+  },
+  "113": {
+    "correct_answer": "29700",
+    "answer_candidates": {
+      "11160": 1,
+      "360": 1,
+      "225": 2,
+      "200": 1,
+      "784": 1,
+      "129,600": 1,
+      "91": 1,
+      "8,640": 1,
+      "85": 1,
+      "100": 2,
+      "1": 1,
+      "63": 1,
+      "1000": 1,
+      "28800": 1,
+      "34650": 1,
+      "7,200": 1,
+      "661": 1
+    },
+    "selected_answer": "225",
+    "selected_answer_count": 2
+  },
+  "105": {
+    "correct_answer": "84",
+    "answer_candidates": {
+      "16": 1,
+      "1000": 1,
+      "0": 1,
+      "1": 3,
+      "5": 1,
+      "11": 1,
+      "270": 1,
+      "20": 1,
+      "24": 2,
+      "625": 2,
+      "10,000": 3,
+      "9999": 1,
+      "10": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 3
+  },
+  "26": {
+    "correct_answer": "\\frac{67}{89}",
+    "answer_candidates": {
+      "\\frac{1}{2}": 6,
+      "\\frac{65}{178}": 1,
+      "\\frac{1}{89}": 1,
+      "\\frac{1}{4}": 1,
+      "\\dfrac{177}{178}": 1,
+      "\\frac{7}{30}": 1,
+      "\\frac{29}{36}": 1,
+      "\\frac{23}{90}": 1,
+      "\\frac{89}{18}": 1,
+      "1": 1,
+      "\\frac{89}{178}": 1,
+      "\\frac{177}{18}": 1,
+      "\\frac{4}{9}": 1
+    },
+    "selected_answer": "\\frac{1}{2}",
+    "selected_answer_count": 6
+  },
+  "71": {
+    "correct_answer": "\\frac{80}{243}",
+    "answer_candidates": {
+      "\\frac{20}{81}": 1,
+      "\\dfrac{10}{121}": 1,
+      "\\frac{40}{243}": 2,
+      "\\frac{320}{972}": 1,
+      "\\frac{80}{972}": 1,
+      "\\frac{1000}{1296}": 1,
+      "\\frac{5}{72}": 1,
+      "\\frac{20}{243}": 1,
+      "\\frac{40}{486}": 2,
+      "\\dfrac{80}{243}": 1,
+      "\\frac{10}{39}": 2,
+      "\\frac{20}{31}": 1
+    },
+    "selected_answer": "\\frac{40}{243}",
+    "selected_answer_count": 2
+  },
+  "88": {
+    "correct_answer": "\\frac{1}{2}",
+    "answer_candidates": {
+      "\\frac{1}{2}": 5,
+      "\\frac{1}{4}": 2,
+      "0": 1,
+      "\\frac{3}{k^2+k}": 1,
+      "\\pi(\\sqrt{2}+1)": 1,
+      "\\frac{\\pi}{2}": 1,
+      "\\frac{k}{2 \\cdot AD}": 1,
+      "\\frac{4}{5}": 1,
+      "\\frac{k-1}{2k}": 1,
+      "\\frac{\\sqrt{1+k^2}}{k}": 1,
+      "\\frac{3}{8}": 1,
+      "\\frac{1}{4k}": 1,
+      "\\frac{\\pi(k^2 + 1)}{4k}": 1,
+      "\\frac{1}{k}": 1
+    },
+    "selected_answer": "\\frac{1}{2}",
+    "selected_answer_count": 5
+  },
+  "67": {
+    "correct_answer": "\\frac{47}{1001}",
+    "answer_candidates": {
+      "\\frac{4}{85}": 1,
+      "\\frac{47}{1001}": 9,
+      "\\frac{1}{3}": 2,
+      "\\frac{51}{1001}": 1,
+      "\\frac{2760}{2002}": 1,
+      "\\frac{5}{21}": 1,
+      "\\frac{8\\cdot7}{15\\cdot14\\cdot13\\cdot12\\cdot11\\cdot10}": 1,
+      "\\frac{7}{5005}": 1,
+      "\\frac{4}{1001}": 1,
+      "\\frac{17}{1001}": 1
+    },
+    "selected_answer": "\\frac{47}{1001}",
+    "selected_answer_count": 9
+  },
+  "30": {
+    "correct_answer": "10",
+    "answer_candidates": {
+      "18": 1,
+      "6": 1,
+      "2,520": 1,
+      "2": 2,
+      "0": 1,
+      "200": 1,
+      "3": 1,
+      "36": 1,
+      "360": 1,
+      "70": 1,
+      "100": 1,
+      "\\frac{5}{3}": 1,
+      "\\frac{5}{2}": 1,
+      "\\frac{1}{6}": 1,
+      "140": 2,
+      "\\dfrac{35}{2}": 1,
+      "480": 1,
+      "10": 1
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 2
+  },
+  "31": {
+    "correct_answer": "\\dfrac{39}{64}",
+    "answer_candidates": {
+      "\\frac{3}{8}": 2,
+      "\\frac{1}{40}": 1,
+      "\\frac{1}{15}": 1,
+      "\\frac{7}{64}": 1,
+      "\\frac{1.25}{2}": 1,
+      "0.00234375": 1,
+      "\\frac{289}{64}": 1,
+      "\\frac{3}{16}": 1,
+      "0.75": 1,
+      "\\frac{5}{8}": 5,
+      "\\frac{27}{2}": 1,
+      "\\frac{1}{2}": 1,
+      "\\frac{27}{8}": 1,
+      "\\frac{9}{128}": 1
+    },
+    "selected_answer": "\\frac{5}{8}",
+    "selected_answer_count": 5
+  },
+  "89": {
+    "correct_answer": "\\frac{507}{595}",
+    "answer_candidates": {
+      "\\frac{169 \\cdot 307}{130}": 1,
+      "\\frac{292}{425}": 1,
+      "\\frac{78}{119}": 1,
+      "\\frac{633}{362,600}": 1,
+      "\\frac{247}{4165}": 1,
+      "\\frac{37349}{{52 \\choose 5}}": 1,
+      "\\frac{17160}{2598960}": 1,
+      "\\frac{533,07}{4,332,5}": 1,
+      "\\frac{69}{27,920}": 1,
+      "\\frac{131}{315}": 1,
+      "\\frac{2588568}{2598960}": 1,
+      "\\frac{11}{680}": 1,
+      "\\frac{\\binom{4}{3} \\cdot \\left(\\binom{13}{0} + \\binom{13}{1} + \\binom{13}{2} + \\binom{13}{3} + \\binom{13}{4} + \\binom{13}{5}\\right) + \\binom{4}{4} \\cdot \\left(\\binom{13}{0} + \\binom{13}{1} + \\binom{13}{2} + \\binom{13}{3} + \\binom{13}{4} + \\binom{13}{5}\\right)}": 1,
+      "\\dfrac{275}{10929}": 1,
+      "\\frac{2\\cdot3\\cdot5\\cdot13\\cdot23\\cdot43}{17}": 1,
+      "\\frac{\\binom{13}{1} \\cdot \\binom{13}{1} \\cdot \\binom{13}{1} \\cdot \\binom{13}{1} \\cdot \\binom{39}{1} + \\binom{4}{3} \\cdot \\binom{13}{1} \\cdot \\binom{13}{1} \\cdot \\binom{13}{1} \\cdot \\binom{13}{2}}{\\binom{52}{5}}": 1
+    },
+    "selected_answer": "\\frac{169 \\cdot 307}{130}",
+    "selected_answer_count": 1
+  },
+  "66": {
+    "correct_answer": "144",
+    "answer_candidates": {
+      "4320": 1,
+      "144": 6,
+      "24": 1,
+      "0": 2,
+      "4": 1,
+      "5040 - 6 = 5034": 1,
+      "48": 1,
+      "600": 1,
+      "684": 1,
+      "4080": 1,
+      "576": 1,
+      "82": 2
+    },
+    "selected_answer": "144",
+    "selected_answer_count": 6
+  },
+  "70": {
+    "correct_answer": "\\frac{35}{128}",
+    "answer_candidates": {
+      "\\frac{5}{128}": 1,
+      "\\frac{1}{32}": 4,
+      "\\frac{7}{64}": 1,
+      "\\frac{1}{16}": 4,
+      "\\frac{45}{128}": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{11}{64}": 1,
+      "1": 1,
+      "\\frac{9}{128}": 2,
+      "\\frac{9}{32}": 1,
+      "\\frac{1}{2}": 1,
+      "\\frac{15}{128}": 1
+    },
+    "selected_answer": "\\frac{1}{32}",
+    "selected_answer_count": 4
+  },
+  "27": {
+    "correct_answer": "19",
+    "answer_candidates": {
+      "24": 5,
+      "18": 1,
+      "\\frac{73}{4}": 1,
+      "\\frac{37}{3}": 1,
+      "5": 1,
+      "15.4": 1,
+      "36.5": 1,
+      "12": 4,
+      "14": 2,
+      "9": 1,
+      "10": 1,
+      "12\\frac{1}{3}": 1
+    },
+    "selected_answer": "24",
+    "selected_answer_count": 5
+  },
+  "104": {
+    "correct_answer": "14",
+    "answer_candidates": {
+      "81": 5,
+      "15": 7,
+      "20": 1,
+      "9": 1,
+      "27": 1,
+      "10": 1,
+      "13.5": 1,
+      "35": 2,
+      "71": 1
+    },
+    "selected_answer": "15",
+    "selected_answer_count": 7
+  },
+  "112": {
+    "correct_answer": "147",
+    "answer_candidates": {
+      "120": 7,
+      "20": 2,
+      "36": 1,
+      "147": 3,
+      "24": 5,
+      "87": 1,
+      "157": 1
+    },
+    "selected_answer": "120",
+    "selected_answer_count": 7
+  },
+  "1": {
+    "correct_answer": "25",
+    "answer_candidates": {
+      "5040": 1,
+      "288": 2,
+      "90": 1,
+      "1560": 1,
+      "203": 1,
+      "160": 1,
+      "720": 2,
+      "24": 1,
+      "5": 1,
+      "78": 1,
+      "30": 1,
+      "45": 1,
+      "10800": 1,
+      "129": 1,
+      "12": 1,
+      "162": 1,
+      "840": 1
+    },
+    "selected_answer": "288",
+    "selected_answer_count": 2
+  },
+  "85": {
+    "correct_answer": "\\frac{20}{27}",
+    "answer_candidates": {
+      "\\frac{26}{27}": 2,
+      "\\frac{20}{27}": 2,
+      "\\frac{7}{9}": 3,
+      "\\frac{7}{12}": 2,
+      "\\frac{7}{27}": 2,
+      "\\frac{1}{3}": 2,
+      "\\frac{10}{27}": 2,
+      "\\frac{5}{9}": 1,
+      "\\frac{4}{8}": 1,
+      "\\frac{7}{3}": 1,
+      "\\frac{5}{8}": 1,
+      "\\frac{22}{27}": 1
+    },
+    "selected_answer": "\\frac{7}{9}",
+    "selected_answer_count": 3
+  },
+  "93": {
+    "correct_answer": "50",
+    "answer_candidates": {
+      "50": 8,
+      "25": 3,
+      "49": 3,
+      "1": 1,
+      "100": 1,
+      "99": 3,
+      "0": 1
+    },
+    "selected_answer": "50",
+    "selected_answer_count": 8
+  },
+  "108": {
+    "correct_answer": "420",
+    "answer_candidates": {
+      "840": 3,
+      "5040": 4,
+      "360": 1,
+      "2016": 1,
+      "140": 2,
+      "720": 4,
+      "60480": 1,
+      "77": 1,
+      "420": 1,
+      "84": 1,
+      "20": 1
+    },
+    "selected_answer": "5040",
+    "selected_answer_count": 4
+  },
+  "50": {
+    "correct_answer": "14",
+    "answer_candidates": {
+      "0": 2,
+      "19": 1,
+      "82": 3,
+      "26": 1,
+      "38": 1,
+      "46": 1,
+      "52": 2,
+      "4": 1,
+      "-6": 1,
+      "122": 1,
+      "51": 1,
+      "8": 1,
+      "44": 1,
+      "60": 1,
+      "94": 1
+    },
+    "selected_answer": "82",
+    "selected_answer_count": 3
+  },
+  "11": {
+    "correct_answer": "\\frac{2}{27}",
+    "answer_candidates": {
+      "\\frac{2}{27}": 8,
+      "\\frac{31}{216}": 1,
+      "\\frac{19}{54}": 1,
+      "\\frac{91}{216}": 2,
+      "\\frac{1}{54}": 1,
+      "\\frac{19}{216}": 1,
+      "\\frac{16}{216}": 1,
+      "\\frac{1}{36}": 2,
+      "\\frac{4}{54}": 1,
+      "\\frac{47}{72}": 1,
+      "\\frac{181}{216}": 1
+    },
+    "selected_answer": "\\frac{2}{27}",
+    "selected_answer_count": 8
+  },
+  "46": {
+    "correct_answer": "48",
+    "answer_candidates": {
+      "60": 1,
+      "74": 1,
+      "91": 4,
+      "181": 1,
+      "102": 1,
+      "152": 1,
+      "56": 1,
+      "36": 1,
+      "15": 1,
+      "16": 1,
+      "100": 1,
+      "75": 1,
+      "71": 1,
+      "20": 1,
+      "116": 1,
+      "48": 1,
+      "27": 1
+    },
+    "selected_answer": "91",
+    "selected_answer_count": 4
+  },
+  "69": {
+    "correct_answer": "\\frac{2}{3}",
+    "answer_candidates": {
+      "\\frac{5}{6}": 3,
+      "\\frac{13}{36}": 1,
+      "\\frac{25}{36}": 1,
+      "\\frac{2}{3}": 3,
+      "\\frac{5}{9}": 1,
+      "\\frac{7}{18}": 1,
+      "\\frac{47}{36}": 1,
+      "\\frac{1}{6}": 1,
+      "\\frac{5}{12}": 1,
+      "\\frac{3}{4}": 1,
+      "\\frac{11}{18}": 1,
+      "\\frac{29}{36}": 3,
+      "\\frac{8}{9}": 2
+    },
+    "selected_answer": "\\frac{5}{6}",
+    "selected_answer_count": 3
+  },
+  "2": {
+    "correct_answer": "28",
+    "answer_candidates": {
+      "64": 1,
+      "28": 12,
+      "8": 1,
+      "6": 1,
+      "4": 1,
+      "10": 1,
+      "7": 1,
+      "3": 1,
+      "15": 1
+    },
+    "selected_answer": "28",
+    "selected_answer_count": 12
+  },
+  "86": {
+    "correct_answer": "\\dfrac{5}{7}",
+    "answer_candidates": {
+      "\\dfrac{9}{14}": 1,
+      "\\frac{7}{8}": 2,
+      "\\frac{9}{14}": 1,
+      "\\frac{3}{4}": 2,
+      "\\frac{5}{7}": 2,
+      "\\frac{6}{7}": 1,
+      "\\frac{9}{10}": 2,
+      "\\frac{9}{32}": 1,
+      "\\dfrac{5}{42}": 1,
+      "\\frac{1}{6}": 1,
+      "\\frac{1}{8}": 1,
+      "\\frac{2}{7}": 2,
+      "\\dfrac{2}{7}": 1
+    },
+    "selected_answer": "\\frac{7}{8}",
+    "selected_answer_count": 2
+  },
+  "90": {
+    "correct_answer": "720",
+    "answer_candidates": {
+      "1440": 10,
+      "12": 1,
+      "144": 1,
+      "2880": 1,
+      "181,440": 1,
+      "288": 1,
+      "120": 1,
+      "720": 2
+    },
+    "selected_answer": "1440",
+    "selected_answer_count": 10
+  },
+  "28": {
+    "correct_answer": "5",
+    "answer_candidates": {
+      "3": 2,
+      "2": 3,
+      "6": 3,
+      "0": 3,
+      "8": 1,
+      "\\infty": 1,
+      "5": 2,
+      "4": 2,
+      "1": 2
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 3
+  },
+  "53": {
+    "correct_answer": "28",
+    "answer_candidates": {
+      "28": 14,
+      "262,144": 1,
+      "343": 1,
+      "729": 3
+    },
+    "selected_answer": "28",
+    "selected_answer_count": 14
+  },
+  "12": {
+    "correct_answer": "\\dfrac{91}{216}",
+    "answer_candidates": {
+      "\\frac{91}{432}": 1,
+      "\\frac{91}{216}": 9,
+      "\\frac{26}{27}": 2,
+      "\\frac{2809}{20736}": 1,
+      "\\frac{169}{216}": 1,
+      "\\frac{43}{108}": 1,
+      "\\frac{397}{1728}": 1,
+      "\\frac{37}{216}": 1,
+      "\\frac{23}{144}": 1,
+      "\\frac{1807}{20736}": 1,
+      "1": 1
+    },
+    "selected_answer": "\\frac{91}{216}",
+    "selected_answer_count": 9
+  },
+  "45": {
+    "correct_answer": "\\frac{37}{819}",
+    "answer_candidates": {
+      "\\frac{37}{819}": 2,
+      "\\frac{301}{1960}": 1,
+      "\\frac{75}{842}": 1,
+      "\\frac{53}{196}": 1,
+      "\\frac{23}{84}": 1,
+      "\\frac{115}{196}": 1,
+      "\\dfrac{901}{20475}": 1,
+      "\\frac{325}{819}": 1,
+      "\\frac{112}{235}": 1,
+      "\\frac{976}{20475}": 1,
+      "\\frac{37}{825}": 1,
+      "\\frac{77}{196}": 1,
+      "0": 1,
+      "\\frac{10}{21}": 1,
+      "\\frac{61}{203}": 1,
+      "\\frac{12}{275}": 1,
+      "\\frac{1117}{2925}": 1
+    },
+    "selected_answer": "\\frac{37}{819}",
+    "selected_answer_count": 2
+  },
+  "32": {
+    "correct_answer": "\\frac{2}{5}",
+    "answer_candidates": {
+      "\\frac{3}{10}": 1,
+      "\\frac{3}{5}": 1,
+      "\\frac{2}{5}": 4,
+      "\\frac{1}{10}": 1,
+      "\\frac{7}{20}": 1,
+      "\\frac{11}{10}": 1,
+      "2": 1,
+      "\\frac{1}{5}": 1,
+      "\\frac{1}{2}": 2,
+      "7": 1,
+      "\\frac{43}{10}": 1,
+      "\\frac{4}{10}": 1,
+      "\\frac{11}{25}": 1,
+      "\\frac{11}{20}": 1,
+      "0.4": 1
+    },
+    "selected_answer": "\\frac{2}{5}",
+    "selected_answer_count": 4
+  },
+  "65": {
+    "correct_answer": "\\frac{82}{147}",
+    "answer_candidates": {
+      "\\frac{3763}{4851}": 2,
+      "\\frac{33}{9702}": 1,
+      "\\frac{97}{163}": 1,
+      "\\frac{22}{99}": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{52}{99}": 1,
+      "\\frac{33}{98}": 1,
+      "\\frac{45}{3234}": 1,
+      "\\frac{5}{14}": 1,
+      "\\frac{97}{198}": 1,
+      "\\frac{1078}{3267}": 1,
+      "\\frac{2}{147}": 1,
+      "\\frac{43}{4851}": 1,
+      "\\frac{2161}{4851}": 1
+    },
+    "selected_answer": "\\frac{3763}{4851}",
+    "selected_answer_count": 2
+  },
+  "73": {
+    "correct_answer": "\\frac{1}{13}",
+    "answer_candidates": {
+      "\\frac{1}{40}": 3,
+      "\\frac{1}{4}": 2,
+      "\\frac{1}{13}": 1,
+      "\\frac{1}{52}": 2,
+      "1": 2,
+      "\\frac{1}{221}": 1,
+      "\\frac{286}{160343}": 1,
+      "\\frac{1}{51}": 2,
+      "\\frac{1}{12909}": 1,
+      "0": 1,
+      "\\frac{1}{5}": 1
+    },
+    "selected_answer": "\\frac{1}{40}",
+    "selected_answer_count": 3
+  },
+  "24": {
+    "correct_answer": "39",
+    "answer_candidates": {
+      "21": 2,
+      "\\{39, 27, 15\\}": 1,
+      "-3, 33, 51": 1,
+      "x=13.5": 1,
+      "3": 1,
+      "(-\\infty, -11.18] \\cup [10.44, 14.74]": 1
+    },
+    "selected_answer": "21",
+    "selected_answer_count": 2
+  },
+  "107": {
+    "correct_answer": "\\dfrac{47}{144}",
+    "answer_candidates": {
+      "\\frac{3}{8}": 7,
+      "\\frac{9}{16}": 2,
+      "\\frac{11}{48}": 1,
+      "\\frac{1}{2}": 1,
+      "\\frac{37}{144}": 1,
+      "\\frac{47}{144}": 1,
+      "\\frac{7}{16}": 1,
+      "\\frac{13}{48}": 1,
+      "\\frac{2}{3}": 1,
+      "\\frac{3}{4}": 1,
+      "\\frac{5}{8}": 1
+    },
+    "selected_answer": "\\frac{3}{8}",
+    "selected_answer_count": 7
+  },
+  "49": {
+    "correct_answer": "\\frac{625}{648}",
+    "answer_candidates": {
+      "\\frac{1375}{7776}": 1,
+      "\\frac{671}{1296}": 1,
+      "\\frac{121}{216}": 1,
+      "\\frac{5000}{7776}": 1,
+      "\\frac{6875}{7776}": 1,
+      "\\frac{4375}{7776}": 1,
+      "\\frac{4625}{7776}": 1,
+      "\\frac{3875}{7776}": 3,
+      "\\frac{7765}{7776}": 1,
+      "\\frac{3125}{7776}": 1,
+      "\\frac{2}{243}": 1,
+      "\\frac{7654}{7776}": 1
+    },
+    "selected_answer": "\\frac{3875}{7776}",
+    "selected_answer_count": 3
+  },
+  "111": {
+    "correct_answer": "16",
+    "answer_candidates": {
+      "12": 7,
+      "10": 2,
+      "8": 4,
+      "6": 2,
+      "11": 1,
+      "24": 2,
+      "2": 1,
+      "18": 1
+    },
+    "selected_answer": "12",
+    "selected_answer_count": 7
+  },
+  "48": {
+    "correct_answer": "\\pi-2",
+    "answer_candidates": {
+      "1": 3,
+      "0": 3,
+      "2": 3,
+      "\\frac{1}{2}": 2,
+      "4\\pi": 1,
+      "\\pi": 2,
+      "4": 1,
+      "6": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 3
+  },
+  "110": {
+    "correct_answer": "\\frac{9}{32}",
+    "answer_candidates": {
+      "\\frac{3}{10}": 4,
+      "\\frac{1}{8}": 4,
+      "\\frac{1}{2}": 5,
+      "\\frac{1}{4}": 2,
+      "\\frac{27}{64}": 2,
+      "\\frac{125}{216}": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{4}{5}": 1
+    },
+    "selected_answer": "\\frac{1}{2}",
+    "selected_answer_count": 5
+  },
+  "106": {
+    "correct_answer": "\\frac{1}{3}",
+    "answer_candidates": {
+      "\\frac{1}{2}": 2,
+      "\\frac{1}{3}": 4,
+      "\\frac{3}{4}": 2,
+      "\\frac{179}{180}": 1,
+      "\\frac{15}{16}": 1,
+      "\\frac{10}{3}": 1,
+      "\\frac{7}{8}": 1,
+      "\\frac{1}{6}": 1,
+      "\\frac{1}{8}": 1,
+      "\\frac{2}{3}": 1,
+      "\\frac{1}{4}": 1
+    },
+    "selected_answer": "\\frac{1}{3}",
+    "selected_answer_count": 4
+  },
+  "25": {
+    "correct_answer": "28800",
+    "answer_candidates": {
+      "48": 2,
+      "28800": 3,
+      "28,800": 1,
+      "86,400": 3,
+      "576": 1,
+      "2": 4,
+      "2,400": 2,
+      "\\frac{1}{2,770}": 1,
+      "7840": 1
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 4
+  },
+  "72": {
+    "correct_answer": "5120",
+    "answer_candidates": {
+      "5120": 4,
+      "5110": 1,
+      "10240": 3,
+      "10230": 1,
+      "512": 1,
+      "1024": 2
+    },
+    "selected_answer": "5120",
+    "selected_answer_count": 4
+  },
+  "64": {
+    "correct_answer": "\\frac{295}{396}",
+    "answer_candidates": {
+      "\\frac{3255}{792}": 1,
+      "\\frac{{12 \\choose 5} - {7 \\choose 5}}{{12 \\choose 5}}": 1,
+      "\\frac{61}{132}": 1,
+      "1": 2,
+      "\\frac{151}{264}": 1,
+      "\\frac{39}{66}": 1,
+      "\\frac{3}{22}": 1,
+      "\\frac{455}{99}": 2,
+      "\\frac{35}{19}": 1,
+      "\\frac{589}{792}": 2,
+      "\\frac{25}{88}": 2,
+      "0": 1,
+      "\\frac{115}{132}": 1,
+      "\\frac{7}{9}": 1,
+      "\\frac{23}{792}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 2
+  },
+  "33": {
+    "correct_answer": "0.076",
+    "answer_candidates": {
+      "0.484": 1,
+      "0.005": 1,
+      "0.097": 1,
+      "0.252": 2,
+      "3.626": 1,
+      "0.048": 2,
+      "0.303": 1,
+      "0.211": 1,
+      "0.137": 1,
+      "0.948": 1,
+      "0.076": 2,
+      "0.143": 1,
+      "0.290": 1,
+      "0.038": 1,
+      "0.156": 1
+    },
+    "selected_answer": "0.252",
+    "selected_answer_count": 2
+  },
+  "44": {
+    "correct_answer": "80",
+    "answer_candidates": {
+      "23": 3,
+      "21": 1,
+      "73": 1,
+      "110": 1,
+      "75": 1,
+      "67": 1,
+      "20": 2,
+      "68": 3,
+      "37": 1,
+      "71": 1,
+      "47": 1,
+      "108": 1,
+      "65": 1,
+      "70": 1
+    },
+    "selected_answer": "23",
+    "selected_answer_count": 3
+  },
+  "13": {
+    "correct_answer": "\\frac{1}{3}",
+    "answer_candidates": {
+      "\\frac{2}{21}": 3,
+      "\\frac{4}{7}": 2,
+      "\\frac{1}{21}": 1,
+      "\\frac{4}{21}": 3,
+      "\\frac{2}{7}": 1,
+      "\\frac{6}{7}": 3,
+      "0": 1,
+      "\\frac{1}{7}": 3,
+      "\\frac{5}{21}": 1,
+      "\\frac{3}{7}": 1
+    },
+    "selected_answer": "\\frac{2}{21}",
+    "selected_answer_count": 3
+  },
+  "52": {
+    "correct_answer": "\\frac{40}{243}",
+    "answer_candidates": {
+      "\\frac{80}{7776}": 1,
+      "\\frac{5}{648}": 1,
+      "\\frac{1280}{7776}": 2,
+      "\\frac{20}{216}": 1,
+      "\\frac{40}{243}": 1,
+      "\\frac{10}{972}": 1,
+      "5": 1,
+      "\\frac{80}{486}": 1,
+      "\\frac{20}{324}": 1,
+      "\\frac{2}{41}": 1,
+      "\\frac{10}{243}": 1
+    },
+    "selected_answer": "\\frac{1280}{7776}",
+    "selected_answer_count": 2
+  },
+  "29": {
+    "correct_answer": "\\frac{1}{2}",
+    "answer_candidates": {
+      "\\frac{4}{3}": 1,
+      "\\frac{2}{9}": 4,
+      "\\frac{8}{9}": 2,
+      "\\frac{5}{18}": 1,
+      "\\frac{1}{2}": 2,
+      "\\frac{1}{18}": 1,
+      "\\frac{17}{18}": 1,
+      "\\frac{11}{18}": 1,
+      "\\frac{2}{3}": 1,
+      "\\frac{1}{9}": 1,
+      "\\frac{5}{9}": 1,
+      "\\frac{3}{4}": 1
+    },
+    "selected_answer": "\\frac{2}{9}",
+    "selected_answer_count": 4
+  },
+  "91": {
+    "correct_answer": "\\frac{1}{12}",
+    "answer_candidates": {
+      "1": 3,
+      "\\frac{1}{2}": 2,
+      "\\frac{1}{4}": 2,
+      "\\frac{1}{\\pi^2}": 2,
+      "0": 1,
+      "\\frac{1}{9}": 1,
+      "\\frac{r^2}{2}": 1,
+      "\\frac{1}{\\pi^3}": 1,
+      "\\frac{1}{18}": 1,
+      "\\frac{1}{4\\pi^2 - 2\\pi}": 1,
+      "\\frac{1}{\\pi}": 1,
+      "\\frac{1}{2\\pi}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 3
+  },
+  "68": {
+    "correct_answer": "512",
+    "answer_candidates": {
+      "255": 1,
+      "513": 2,
+      "4080": 1,
+      "511": 2,
+      "6": 2,
+      "4": 1,
+      "5": 1,
+      "4096": 1,
+      "8": 1,
+      "2": 1,
+      "3": 1,
+      "257": 1,
+      "9": 1,
+      "11": 1,
+      "1024": 1,
+      "1": 1,
+      "4088": 1
+    },
+    "selected_answer": "513",
+    "selected_answer_count": 2
+  },
+  "87": {
+    "correct_answer": "\\dfrac{5}{12}",
+    "answer_candidates": {
+      "\\frac{1}{2}": 2,
+      "0": 1,
+      "\\frac{4}{35}": 1,
+      "\\frac{7}{4}": 1,
+      "\\frac{3}{7}": 1,
+      "\\frac{1}{6}": 1,
+      "\\frac{19}{12}": 1,
+      "\\frac{3}{2}": 1,
+      "\\frac{7}{3}": 1,
+      "\\frac{1}{3}": 1,
+      "\\frac{11}{12}": 1,
+      "\\frac{1}{1}": 1,
+      "\\frac{5}{12}": 1,
+      "\\frac{1}{4}": 1,
+      "\\frac{4}{15}": 1,
+      "\\frac{2}{35}": 1,
+      "\\frac{1}{7}": 1,
+      "\\dfrac{9}{14}": 1,
+      "\\frac{5}{4}": 1
+    },
+    "selected_answer": "\\frac{1}{2}",
+    "selected_answer_count": 2
+  },
+  "3": {
+    "correct_answer": "25",
+    "answer_candidates": {
+      "1": 7,
+      "96": 1,
+      "720": 2,
+      "144": 1,
+      "6": 2,
+      "240": 1,
+      "20": 1,
+      "153": 1,
+      "48": 1,
+      "8": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 7
+  },
+  "34": {
+    "correct_answer": "576",
+    "answer_candidates": {
+      "16": 2,
+      "192": 1,
+      "1728": 8,
+      "576": 3,
+      "288": 1,
+      "48": 1,
+      "32": 1,
+      "12,096": 1,
+      "96": 1
+    },
+    "selected_answer": "1728",
+    "selected_answer_count": 8
+  },
+  "63": {
+    "correct_answer": "70",
+    "answer_candidates": {
+      "1": 1,
+      "\\binom{8}{3}": 1,
+      "56": 9,
+      "9800": 1,
+      "84": 1,
+      "70": 4,
+      "112": 1
+    },
+    "selected_answer": "56",
+    "selected_answer_count": 9
+  },
+  "8": {
+    "correct_answer": "40",
+    "answer_candidates": {
+      "243": 5,
+      "1176": 1,
+      "6": 2,
+      "1": 1,
+      "14": 1,
+      "20": 1,
+      "15": 1,
+      "18": 2,
+      "48": 1,
+      "62": 1,
+      "21": 2,
+      "1024": 1,
+      "10": 1
+    },
+    "selected_answer": "243",
+    "selected_answer_count": 5
+  },
+  "75": {
+    "correct_answer": "968",
+    "answer_candidates": {
+      "101": 1,
+      "968": 7,
+      "704": 1,
+      "1164": 1,
+      "0": 3,
+      "715": 1,
+      "1408": 1,
+      "15360": 1,
+      "381": 1,
+      "-16257": 1,
+      "29": 1
+    },
+    "selected_answer": "968",
+    "selected_answer_count": 7
+  },
+  "22": {
+    "correct_answer": "30",
+    "answer_candidates": {
+      "40": 6,
+      "22.5": 1,
+      "35": 3,
+      "45": 1,
+      "15": 3,
+      "435": 1,
+      "10": 3,
+      "60": 1,
+      "70": 1
+    },
+    "selected_answer": "40",
+    "selected_answer_count": 6
+  },
+  "59": {
+    "correct_answer": "36",
+    "answer_candidates": {
+      "9": 1,
+      "7": 1,
+      "18": 1,
+      "121": 1,
+      "81": 4,
+      "15": 2,
+      "216": 2,
+      "25": 1,
+      "36": 2,
+      "27": 1,
+      "675": 1,
+      "30": 1,
+      "225": 1,
+      "405": 1
+    },
+    "selected_answer": "81",
+    "selected_answer_count": 4
+  },
+  "101": {
+    "correct_answer": "31",
+    "answer_candidates": {
+      "31": 4,
+      "15": 2,
+      "58": 1,
+      "40": 1,
+      "24": 1,
+      "25": 1,
+      "34": 1,
+      "63": 1,
+      "5": 1,
+      "37": 1,
+      "50": 1,
+      "33": 1,
+      "57": 1,
+      "36": 1,
+      "6": 1,
+      "56": 1
+    },
+    "selected_answer": "31",
+    "selected_answer_count": 4
+  },
+  "18": {
+    "correct_answer": "\\frac{7}{72}",
+    "answer_candidates": {
+      "\\frac{5}{36}": 2,
+      "\\dfrac{5}{324}": 1,
+      "3": 1,
+      "\\frac{25}{18}": 1,
+      "\\frac{5}{12}": 1,
+      "\\frac{25}{54}": 1,
+      "\\frac{10}{6^4}": 1,
+      "\\frac{7}{72}": 1,
+      "\\frac{5}{9}": 1,
+      "\\frac{7}{108}": 1,
+      "\\frac{25}{648}": 1,
+      "\\frac{5}{54}": 1,
+      "\\frac{5}{648}": 1,
+      "\\frac{251}{1296}": 1,
+      "\\frac{11}{108}": 1,
+      "\\frac{25}{12}": 1,
+      "\\frac{19}{324}": 1
+    },
+    "selected_answer": "\\frac{5}{36}",
+    "selected_answer_count": 2
+  },
+  "117": {
+    "correct_answer": "\\frac{8}{81}",
+    "answer_candidates": {
+      "\\frac{1}{2}": 1,
+      "\\frac{4}{81}": 1,
+      "\\frac{34}{243}": 3,
+      "\\frac{4}{27}": 1,
+      "\\frac{10}{81}": 1,
+      "\\dfrac{78}{729}": 1,
+      "\\frac{19}{81}": 1,
+      "\\frac{8}{81}": 2,
+      "\\frac{20}{243}": 1
+    },
+    "selected_answer": "\\frac{34}{243}",
+    "selected_answer_count": 3
+  },
+  "38": {
+    "correct_answer": "3",
+    "answer_candidates": {
+      "105": 1,
+      "5 \\cdot 6!": 1,
+      "240": 1,
+      "1440": 2,
+      "60": 3,
+      "1728": 1,
+      "144": 1,
+      "6": 2,
+      "1,140": 1,
+      "33": 1,
+      "480": 1,
+      "270": 1,
+      "16": 1,
+      "7": 1
+    },
+    "selected_answer": "60",
+    "selected_answer_count": 3
+  },
+  "4": {
+    "correct_answer": "\\frac{13}{17}",
+    "answer_candidates": {
+      "\\frac{29}{34}": 1,
+      "1": 1,
+      "\\frac{22099}{22100}": 1,
+      "\\frac{169}{221}": 1,
+      "\\frac{1}{26}": 1,
+      "0.5098": 1,
+      "\\frac{351}{1300}": 1,
+      "\\frac{1}{2}": 1,
+      "\\frac{16900}{22100}": 2,
+      "\\frac{9}{17}": 1,
+      "\\dfrac{11}{17}": 1,
+      "\\frac{49}{8840}": 1,
+      "\\frac{39}{51}": 1,
+      "\\frac{52}{221}": 1,
+      "\\frac{679}{884}": 1
+    },
+    "selected_answer": "\\frac{16900}{22100}",
+    "selected_answer_count": 2
+  },
+  "80": {
+    "correct_answer": "126",
+    "answer_candidates": {
+      "252": 16,
+      "126": 1,
+      "\\binom{10}{5}": 2,
+      "70": 1
+    },
+    "selected_answer": "252",
+    "selected_answer_count": 16
+  },
+  "79": {
+    "correct_answer": "\\dfrac{1904}{6561}",
+    "answer_candidates": {
+      "\\frac{7}{729}": 1,
+      "\\frac{1904}{6561}": 5,
+      "\\frac{{8 \\choose 3} \\cdot 2^5 + {8 \\choose 6} \\cdot 2^2}{3^8}": 1,
+      "\\frac{112}{3^8}": 1,
+      "\\frac{84}{3^8}": 1,
+      "\\frac{1323708}{1600833}": 1,
+      "\\frac{4}{3^8}": 1,
+      "\\frac{332}{2187}": 1,
+      "\\frac{1792}{3^8}": 1
+    },
+    "selected_answer": "\\frac{1904}{6561}",
+    "selected_answer_count": 5
+  },
+  "121": {
+    "correct_answer": "28",
+    "answer_candidates": {
+      "15": 1,
+      "64": 2,
+      "256": 2,
+      "6": 1,
+      "8": 1,
+      "17": 1,
+      "24": 2,
+      "12": 1,
+      "165888": 1,
+      "1024": 1,
+      "1": 2,
+      "25": 1,
+      "48": 1,
+      "54": 1,
+      "4608": 1,
+      "16": 1
+    },
+    "selected_answer": "64",
+    "selected_answer_count": 2
+  },
+  "96": {
+    "correct_answer": "5,\\!866,\\!608",
+    "answer_candidates": {
+      "29299200": 1,
+      "24442": 3,
+      "586,608": 1,
+      "222240": 1,
+      "244442": 2,
+      "2640": 1,
+      "6533400": 3,
+      "5867288": 1,
+      "528": 1,
+      "2112": 1,
+      "97,768": 1,
+      "18991": 1,
+      "110": 1,
+      "726": 1,
+      "244,442": 1
+    },
+    "selected_answer": "24442",
+    "selected_answer_count": 3
+  },
+  "55": {
+    "correct_answer": "4",
+    "answer_candidates": {
+      "8": 1,
+      "2": 7,
+      "\\frac{2}{3}": 4,
+      "1944": 1,
+      "4": 2,
+      "80": 1,
+      "\\frac{2}{7}": 1
+    },
+    "selected_answer": "2",
+    "selected_answer_count": 7
+  },
+  "14": {
+    "correct_answer": "\\frac{5}{8}",
+    "answer_candidates": {
+      "\\frac{1}{8}": 5,
+      "\\frac{11}{16}": 1,
+      "\\frac{1}{2}": 4,
+      "1": 2,
+      "\\frac{3}{16}": 1,
+      "\\frac{1}{4}": 3,
+      "\\frac{7}{403206912}": 1,
+      "\\frac{191}{1000}": 1,
+      "\\frac{2012025}{1616016016}": 1,
+      "\\frac{3}{2}": 1
+    },
+    "selected_answer": "\\frac{1}{8}",
+    "selected_answer_count": 5
+  },
+  "43": {
+    "correct_answer": "\\frac{3}{5}",
+    "answer_candidates": {
+      "\\frac{1}{5}": 1,
+      "\\frac{2}{5}": 1,
+      "\\frac{1}{20}": 2,
+      "1": 2,
+      "\\frac{3}{10}": 2,
+      "\\frac{1}{10}": 3,
+      "4": 1,
+      "\\frac{5}{5}": 1,
+      "\\frac{7}{10}": 1,
+      "\\frac{17}{20}": 1,
+      "\\frac{1}{2}": 2,
+      "\\frac{3}{20}": 2,
+      "\\frac{7}{30}": 1
+    },
+    "selected_answer": "\\frac{1}{10}",
+    "selected_answer_count": 3
+  },
+  "42": {
+    "correct_answer": "1680",
+    "answer_candidates": {
+      "1680": 5,
+      "336": 4,
+      "40,320": 3,
+      "2": 1,
+      "6720": 1,
+      "8!": 1,
+      "40320": 1,
+      "168": 1,
+      "5760": 1,
+      "5040": 1,
+      "56": 1
+    },
+    "selected_answer": "1680",
+    "selected_answer_count": 5
+  },
+  "15": {
+    "correct_answer": "\\frac{1}{15}",
+    "answer_candidates": {
+      "\\frac{1}{15}": 2,
+      "\\dfrac{1}{15}": 2,
+      "\\frac{1}{360}": 1,
+      "\\frac{2}{5}": 1,
+      "\\frac{1}{90}": 2,
+      "\\frac{1}{6}": 2,
+      "\\frac{1}{20}": 1,
+      "\\frac{4}{15}": 1,
+      "\\frac{16}{3}": 1,
+      "\\frac{1}{180}": 1,
+      "1": 1
+    },
+    "selected_answer": "\\frac{1}{15}",
+    "selected_answer_count": 2
+  },
+  "54": {
+    "correct_answer": "\\frac{11}{16}",
+    "answer_candidates": {
+      "\\frac{3}{8}": 1,
+      "\\frac{11}{16}": 3,
+      "\\frac{7}{16}": 1,
+      "\\frac{5}{8}": 3,
+      "\\frac{1}{2}": 1,
+      "1": 3,
+      "\\frac{3}{16}": 1,
+      "\\frac{9}{16}": 1,
+      "\\frac{3}{4}": 1,
+      "\\frac{31}{16}": 1
+    },
+    "selected_answer": "\\frac{11}{16}",
+    "selected_answer_count": 3
+  },
+  "78": {
+    "correct_answer": "165",
+    "answer_candidates": {
+      "142.5": 1,
+      "25": 1,
+      "625": 3,
+      "100": 2,
+      "\\frac{625}{64}": 1,
+      "72": 1,
+      "240": 1,
+      "156": 1,
+      "31": 1,
+      "9": 1,
+      "12": 1,
+      "80": 1,
+      "55": 1,
+      "7": 1,
+      "601": 1,
+      "\\frac{625}{2}": 1,
+      "5": 1
+    },
+    "selected_answer": "625",
+    "selected_answer_count": 3
+  },
+  "120": {
+    "correct_answer": "20",
+    "answer_candidates": {
+      "4": 1,
+      "16": 1,
+      "29": 1,
+      "6": 2,
+      "19": 1,
+      "12": 4,
+      "14": 1,
+      "99": 1,
+      "9": 2,
+      "81": 1,
+      "18": 1,
+      "54": 1,
+      "27": 1,
+      "3": 1,
+      "13": 1
+    },
+    "selected_answer": "12",
+    "selected_answer_count": 4
+  },
+  "97": {
+    "correct_answer": "\\frac{5}{54}",
+    "answer_candidates": {
+      "1": 1,
+      "\\frac{5}{1296}": 1,
+      "\\frac{1}{64}": 3,
+      "\\frac{5}{7776}": 1,
+      "\\frac{1}{216}": 1,
+      "\\frac{8}{46656}": 1,
+      "\\frac{1}{6^6}": 1,
+      "\\frac{343}{7776}": 1,
+      "\\frac{1}{8}": 1,
+      "\\frac{1}{4}": 1,
+      "\\frac{160}{6^6}": 1,
+      "\\frac{80}{2916}": 1
+    },
+    "selected_answer": "\\frac{1}{64}",
+    "selected_answer_count": 3
+  },
+  "81": {
+    "correct_answer": "\\frac{5}{16}",
+    "answer_candidates": {
+      "\\frac{25}{2^9}": 1,
+      "\\frac{161}{512}": 1,
+      "\\frac{1}{16}": 4,
+      "\\frac{1}{4}": 1,
+      "\\frac{1}{12}": 1,
+      "\\frac{654,729,075}{16,777,216}": 1,
+      "\\frac{3}{64}": 1,
+      "\\frac{1}{64}": 1,
+      "\\frac{3}{32}": 1,
+      "\\frac{15}{4096}": 1,
+      "\\frac{1}{2}": 1,
+      "\\frac{4}{125}": 1,
+      "\\frac{1}{32}": 1,
+      "\\frac{5}{64}": 1,
+      "\\frac{7}{64}": 1
+    },
+    "selected_answer": "\\frac{1}{16}",
+    "selected_answer_count": 4
+  },
+  "5": {
+    "correct_answer": "14,\\!400",
+    "answer_candidates": {
+      "1152": 2,
+      "576": 2,
+      "2880": 2,
+      "48": 1,
+      "24^2": 1,
+      "240": 2,
+      "28,800": 2,
+      "120": 1,
+      "24": 1,
+      "28800": 1,
+      "2,880": 1,
+      "250": 1,
+      "138,240,000": 1
+    },
+    "selected_answer": "1152",
+    "selected_answer_count": 2
+  },
+  "39": {
+    "correct_answer": "\\frac{209}{210}",
+    "answer_candidates": {
+      "4": 2,
+      "\\frac{8}{35}": 4,
+      "\\frac{1}{210}": 1,
+      "\\frac{24006}{24007}": 1,
+      "\\frac{4}{15}": 1,
+      "\\frac{1}{2}": 1,
+      "0.981": 1,
+      "1": 2,
+      "\\frac{209}{210}": 2
+    },
+    "selected_answer": "\\frac{8}{35}",
+    "selected_answer_count": 4
+  },
+  "116": {
+    "correct_answer": "\\frac{3}{28}",
+    "answer_candidates": {
+      "\\frac{15}{28}": 2,
+      "\\frac{1}{12}": 2,
+      "\\frac{3}{14}": 1,
+      "\\frac{3}{28}": 1,
+      "\\frac{1}{28}": 4,
+      "\\frac{1}{84}": 1,
+      "0": 2,
+      "\\frac{1}{8}": 1,
+      "\\frac{3}{56}": 1,
+      "\\frac{2}{21}": 1,
+      "\\frac{31}{84}": 1,
+      "\\frac{3}{7}": 1,
+      "\\frac{13}{84}": 1,
+      "\\frac{37}{84}": 1
+    },
+    "selected_answer": "\\frac{1}{28}",
+    "selected_answer_count": 4
+  },
+  "19": {
+    "correct_answer": "1041",
+    "answer_candidates": {
+      "1414": 1,
+      "1045": 2,
+      "1464": 1,
+      "1000": 1,
+      "1706": 1,
+      "1984": 1,
+      "955": 1,
+      "1736": 1,
+      "1009": 1,
+      "2999": 1,
+      "531": 1,
+      "742": 1
+    },
+    "selected_answer": "1045",
+    "selected_answer_count": 2
+  },
+  "58": {
+    "correct_answer": "\\frac{1}{2}",
+    "answer_candidates": {
+      "\\frac{23}{28}": 1,
+      "\\frac{19}{28}": 1,
+      "\\dfrac{27}{28}": 1,
+      "\\frac{17}{28}": 1,
+      "\\frac{1}{2}": 1,
+      "\\frac{11}{14}": 1,
+      "\\frac{13}{28}": 1,
+      "\\frac{29}{28}": 1,
+      "\\frac{1}{7}": 1,
+      "1": 2,
+      "\\frac{5}{28}": 2,
+      "\\dfrac{23}{28}": 1
+    },
+    "selected_answer": "1",
+    "selected_answer_count": 2
+  },
+  "100": {
+    "correct_answer": "180",
+    "answer_candidates": {
+      "145": 1,
+      "90": 2,
+      "660": 1,
+      "720": 1,
+      "6": 1,
+      "180": 5,
+      "120": 2,
+      "4": 1,
+      "1080": 1,
+      "144": 1,
+      "12": 1,
+      "1": 1
+    },
+    "selected_answer": "180",
+    "selected_answer_count": 5
+  },
+  "23": {
+    "correct_answer": "\\dfrac{5}{162}",
+    "answer_candidates": {
+      "\\frac{20}{729}": 2,
+      "\\frac{480}{46656}": 1,
+      "\\frac{5}{6^4}": 1,
+      "\\frac{3125}{5184}": 1,
+      "\\frac{15}{7776}": 1,
+      "\\frac{80}{729}": 1,
+      "\\dfrac{5}{2592}": 1,
+      "\\dfrac{20}{729}": 1,
+      "\\dfrac{80}{7776}": 1,
+      "\\dfrac{9}{4}": 1,
+      "\\frac{25}{324}": 1,
+      "\\dfrac{32}{216}": 1,
+      "\\frac{5}{216}": 1,
+      "\\dfrac{45}{6^6}": 1,
+      "\\frac{5}{162}": 1,
+      "\\frac{40}{1296}": 1,
+      "\\frac{5}{72}": 1,
+      "\\dfrac{20}{972}": 1,
+      "\\frac{40}{6^5}": 1
+    },
+    "selected_answer": "\\frac{20}{729}",
+    "selected_answer_count": 2
+  },
+  "74": {
+    "correct_answer": "\\frac{59}{125}",
+    "answer_candidates": {
+      "\\frac{59}{125}": 1,
+      "\\frac{13}{25}": 3,
+      "\\frac{19}{25}": 1,
+      "\\frac{26}{25}": 1,
+      "\\dfrac{71}{125}": 1,
+      "\\frac{2}{5}": 2,
+      "\\dfrac{3}{5}": 1,
+      "\\frac{12}{125}": 1,
+      "\\frac{6}{25}": 1,
+      "\\frac{1}{25}": 1,
+      "\\frac{3}{5}": 1,
+      "\\frac{2}{125}": 1,
+      "\\frac{89}{125}": 1,
+      "\\dfrac{13}{125}": 1,
+      "\\frac{7}{18}": 1
+    },
+    "selected_answer": "\\frac{13}{25}",
+    "selected_answer_count": 3
+  },
+  "62": {
+    "correct_answer": "\\frac{13}{18}",
+    "answer_candidates": {
+      "\\frac{5}{12}": 2,
+      "\\frac{5}{18}": 1,
+      "\\frac{2}{3}": 2,
+      "\\frac{1}{3}": 1,
+      "\\frac{4}{7}": 1,
+      "\\frac{16}{21}": 1,
+      "\\frac{13}{18}": 1,
+      "\\frac{4}{15}": 1,
+      "\\frac{5}{36}": 1,
+      "\\frac{1}{2}": 3,
+      "\\frac{17}{15}": 1,
+      "\\frac{2}{15}": 1,
+      "\\frac{1}{6}": 1,
+      "\\frac{7}{18}": 1
+    },
+    "selected_answer": "\\frac{1}{2}",
+    "selected_answer_count": 3
+  },
+  "9": {
+    "correct_answer": "\\frac{161}{36}",
+    "answer_candidates": {
+      "\\frac{28}{3}": 1,
+      "\\frac{35}{12}": 1,
+      "\\frac{91}{36}": 6,
+      "\\frac{161}{72}": 1,
+      "\\frac{44}{9}": 1,
+      "\\frac{17}{12}": 1,
+      "\\frac{7}{2}": 3,
+      "\\frac{637}{216}": 1,
+      "\\frac{7}{12}": 1,
+      "\\frac{7}{6}": 1,
+      "\\frac{5}{9}": 1,
+      "\\frac{71}{36}": 1,
+      "\\frac{49}{4}": 1
+    },
+    "selected_answer": "\\frac{91}{36}",
+    "selected_answer_count": 6
+  },
+  "35": {
+    "correct_answer": "1940",
+    "answer_candidates": {
+      "952": 2,
+      "1940": 4,
+      "8,320": 1,
+      "840": 2,
+      "448": 1,
+      "784": 1,
+      "1520": 1,
+      "608": 1,
+      "980": 1,
+      "680": 1,
+      "1260": 1,
+      "560": 1,
+      "8,640": 1,
+      "1020": 1
+    },
+    "selected_answer": "1940",
+    "selected_answer_count": 4
+  }
+}
